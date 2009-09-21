@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-08-07 20:26+0200\n"
+"POT-Creation-Date: 2009-09-21 22:00+0200\n"
 "PO-Revision-Date: 2008-01-25 13:36+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -119,112 +119,92 @@ msgid "IftU-2"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:14
+#: Invasion_from_the_Unknown/about.cfg:13
 msgid "Creator and Lead Designer"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:23
+#: Invasion_from_the_Unknown/about.cfg:22
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:41
+#: Invasion_from_the_Unknown/about.cfg:40
 msgid "Non-maintainer Uploads"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:54
-msgid "Initial porting from the 1.4 branch to 1.5.x"
-msgstr ""
-
-#. [about]
-#: Invasion_from_the_Unknown/about.cfg:60
-msgid "Maintenance and release toolkit"
-msgstr ""
-
-#. [about]
-#: Invasion_from_the_Unknown/about.cfg:67
+#: Invasion_from_the_Unknown/about.cfg:55
 msgid "English text revisions"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:78
-msgid "Translations"
-msgstr ""
-
-#. [entry]
-#: Invasion_from_the_Unknown/about.cfg:80
-msgid "The WesCamp-i18n project"
-msgstr ""
-
-#. [entry]
-#: Invasion_from_the_Unknown/about.cfg:83
-msgid "The Battle for Wesnoth project"
-msgstr ""
-
-#. [about]
-#: Invasion_from_the_Unknown/about.cfg:87
+#: Invasion_from_the_Unknown/about.cfg:66
 msgid "Graphics"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:232
-msgid "Cartography Resources"
+#: Invasion_from_the_Unknown/about.cfg:211
+msgid "Music"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:239
+#: Invasion_from_the_Unknown/about.cfg:223
 msgid "Sound effects"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:246
-msgid "Music tracks (non-specific)"
-msgstr ""
-
-#. [about]
-#: Invasion_from_the_Unknown/about.cfg:253
-msgid "SVN services and hosting"
+#: Invasion_from_the_Unknown/about.cfg:230
+msgid "Translations"
 msgstr ""
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:255
+#: Invasion_from_the_Unknown/about.cfg:232
+msgid "The WesCamp-i18n project"
+msgstr ""
+
+#. [about]
+#: Invasion_from_the_Unknown/about.cfg:236
+msgid "SVN services, maintenance toolkit and primary hosting"
+msgstr ""
+
+#. [entry]
+#: Invasion_from_the_Unknown/about.cfg:238
 msgid "Coordinated Wesnoth UMC Development Project"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:259
+#: Invasion_from_the_Unknown/about.cfg:242
 msgid "Web hosting"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:265
+#: Invasion_from_the_Unknown/about.cfg:251
 msgid "IRC Bots"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:275
+#: Invasion_from_the_Unknown/about.cfg:261
 msgid "Additional thanks to"
 msgstr ""
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:307
+#: Invasion_from_the_Unknown/about.cfg:297
 msgid "All those who gave me valuable feedback"
 msgstr ""
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:310
+#: Invasion_from_the_Unknown/about.cfg:300
 msgid "All those who reported and/or fixed bugs in this campaign"
 msgstr ""
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:313
+#: Invasion_from_the_Unknown/about.cfg:303
 msgid "You, for playing this campaign"
 msgstr ""
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:316
+#: Invasion_from_the_Unknown/about.cfg:306
 msgid "Anyone else I could forget to mention"
 msgstr ""
 
@@ -242,7 +222,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/base-utils.cfg:113
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:367
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:427
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:459
 msgid "Crystal Glyph"
 msgstr ""
 
@@ -6581,237 +6562,218 @@ msgstr ""
 msgid "Then that's where we shall go."
 msgstr ""
 
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:373
-msgid ""
-"Arcane energy is what grants everything in our Universe the condition of "
-"existence. It can be, however, channeled to be a powerful, hence dangerous, "
-"weapon that can remove the life from the living, and grant the life to the "
-"non-living."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:375
-msgid ""
-"These magic crystal glyphs were created by us, the Argazars, so that our "
-"knowledge and technology could be preserved until the end of this planet's "
-"existence. Each one may contain a different message, may have a special "
-"ability, or cause various effects in its surroundings, included, but not "
-"limited to, providing light sources of unlimited power and lifespan."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:377
-msgid ""
-"Before there was anything, the Darkness filled all our space. Then, Light "
-"was born, starting a neverending fight between it, and the ancient Darkness."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:379
-msgid ""
-"These crystals were created by us, the Argazars, so that future generations "
-"would learn of our past and present. Most information was gathered by us, "
-"from even more ancient scrolls, stones and ruins."
-msgstr ""
-
 #. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:381
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:485
-msgid ""
-"To stop the conflict of Light and Darkness, a third power was created, the "
-"Neutroume. It would separate Light and Darkness, and allow their "
-"coexistence. However, the perfect balance brought by the Neutroume was "
-"brief, as the Neutroume corrupted itself. This spawned the beings known as "
-"'daelums', 'daemons' or 'demons'."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:383
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:486
-msgid ""
-"The demons controled most lifeforms with the power of the Neutroume. The "
-"Neutroume could not be destroyed, however, until the Light and Darkness were "
-"united in a single, powerful entity. The Union was born."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:385
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:487
-msgid ""
-"The Union was allowed to exist for enough time to defeat the Neutroume and "
-"bind it to its own plane of existence, to its own prison, with the demons. "
-"After that, for safety, the Union entity was dismantled and separated into "
-"three abstract objects, the Body of the Union, the Globe of Light and the "
-"Globe of Darkness."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:387
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:488
-msgid ""
-"Anyone capable of gathering the two globes together, would construct a new "
-"Union entity. But this was made almost impossible by sending each globe to "
-"distant, different places in the Cosmos. Yet, the original Body of the Union "
-"was left, hidden in Irya, fourth planet of the Ardaan system."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:389
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:489
-msgid ""
-"A prophecy was made about the day when the two globes would have to be "
-"gathered together."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:391
-msgid ""
-"Two beings are going to be born, at some point of time close to the "
-"awakening of Uria, the demonic matrix. One of them would have the Globe of "
-"Darkness embedded into its spirit. The other would have the Light one "
-"embedded."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:393
-msgid ""
-"When both beings join their spirits by the unbreakable link and bond, the "
-"Globes will be joined too, spawning the power of the Union once again, to be "
-"integrated into both beings. This occurs to the extent of their material and "
-"mortal barriers."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:395
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:492
-msgid ""
-"They cannot merge their bodies, but they can merge and channel the powers "
-"that they will be granted."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:397
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:494
-msgid ""
-"Merging the arcane flows channeled through their powers would allow the "
-"power of the Union to be valid every time, requiring the former action to be "
-"taken in each oportunity."
-msgstr ""
-
-#. [event]
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:399
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:495
-msgid ""
-"The death of any of those two beings, bound and linked by the Unbreakable, "
-"will invalidate the Union and dismantle the power once again. Their original "
-"bodies will be left, without the powers of Light or Darkness that were "
-"granted to them originally. The Globes will be spawned again, and the cycle "
-"will repeat."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:401
-msgid ""
-"The prophecy of the Union was made by an ancient Argazar wiseman whose name "
-"has not been yet confirmed, as he was never seen again."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:403
-msgid ""
-"Uria: it is said that the Neutroume formed a single entity that accumulated "
-"all of its intrinsic power. This was named Uria, the 'demonic matrix' or "
-"'Mother of all Demons'. Its structure and properties are not known up to the "
-"time of this writing."
-msgstr ""
-
-#. [scenario]: id=09_The_Library
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:405
-msgid ""
-"The Body of the Union is the Light and Darkness' equivalent of the "
-"Neutroume's Uria. Theoretically, if it were destroyed, all life in the "
-"universe would end, or, vice versa, it is possible that the only way to "
-"destroy the Body of the Union is to destroy all life in the universe."
-msgstr ""
-
-#. [event]
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:463
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:409
 msgid "Hidden touchplate triggered. Walls are heard moving in the distance."
 msgstr ""
 
-#. [message]: speaker=narrator
+#. [event]
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:432
+msgid ""
+"Long ago, during a forgotten era, the beings of Light and Darkness were "
+"fighting an endless war, which ended when Yarae the Arcane Lord appeared to "
+"take his place as an arbiter between both sides. He created ten guardians or "
+"<i>demons</i> to protect the factions from destroying each other. Each "
+"guardian was bestowed control over different classes of powers and beings. "
+"More demons were created as necessary to help the Original Ten with their "
+"task."
+msgstr ""
+
+#. [event]
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:434
+msgid ""
+"Yarae had great powers that could control or restrain the chaotic nature of "
+"the Light and Darkness factions. He used his powers moderately and wisely "
+"for eons, bringing peace and prosperity to all - until he was corrupted by "
+"unknown forces."
+msgstr ""
+
+#. [event]
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:436
+msgid ""
+"As he was corrupted, so were the Original Ten. Yarae commanded them and the "
+"rest of the demonkind to bring chaos upon all that existed. A significant "
+"part of all that existed was corrupted by the touch of the Original Ten "
+"until the gods of Light and Darkness figured out a way to combine their "
+"forces in a single entity capable of fighting the new evil. The Avatar of "
+"the Union of Light and Darkness was born."
+msgstr ""
+
+#. [event]
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:438
+msgid ""
+"With the power of the Union, they managed to significantly weaken Yarae and "
+"trap him in the Void between worlds. Soon his ten servants were defeated as "
+"well, but not all of them could be destroyed, as the Union was also weakened "
+"by the fight. Those of the Original Ten who survived were purified and made "
+"to serve more lawful purposes. The powers of those who were destroyed were "
+"lost, although it is believed they may come into existence again by binding "
+"to newborn creatures."
+msgstr ""
+
+#. [event]
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:440
+msgid ""
+"Uria of the Original Ten was charged with the task of guarding the corrupted "
+"worlds with the help of the rest of the demonkind. The power of the Union "
+"was lastly used to separate the corrupted worlds from the rest almost "
+"completely into the space of Inferno. As the power of the Union faded away, "
+"the Body of the Union and the Globes of Light and Darkness were left behind. "
+"As it was feared that the Original Ten could become corrupted again, or "
+"Yarae could escape his imprisonment, the three objects were hidden in "
+"different locations about which demonkind did not know. Those locations were "
+"in the worlds of Ethea, Irdya and Norsula, respectively."
+msgstr ""
+
+#. [event]
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:442
+msgid ""
+"When the era comes in which one or more of the Original Ten become corrupted "
+"again, two beings shall be born, each one in the places were the Globes were "
+"hidden. The powers of Light and Darkness shall bind to each one, and once "
+"both beings join their spirits, they shall become the new Avatars of the "
+"Union. And the cycle shall repeat in the case one of them is destroyed."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:465
+msgid ""
+"These crystal glyphs were created by us, the Argazars, so that our knowledge "
+"and technology could be preserved until the end of this planet's existence. "
+"Each one may contain a different message, may have a special ability, or "
+"cause various effects in its surroundings, included, but not limited to, "
+"providing light sources of unlimited lifespan."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:467
+msgid ""
+"It is our final hope that all of this accumulated knowledge, technology, and "
+"history will not be used for malign purposes."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:469
+msgid ""
+"These crystals were created by us, the Argazars, so that future generations "
+"would learn of our past and present. Most of the information was gathered by "
+"us, from even more ancient scrolls, stones and ruins."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:471
+msgid ""
+"The three components of the Union are believed to have been hidden in the "
+"worlds of Ethea, Irdya and Norsula."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:473
+msgid ""
+"Ancient legends state that demonkind is not necessarily evil by nature. "
+"However, the great powers wielded by the inhabitants of Inferno make it more "
+"likely that they shall be used for evil acts."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:475
+msgid ""
+"A prophecy was made about the day when the Union of Light and Darkness shall "
+"be formed again."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:477
+msgid ""
+"Long ago during a forgotten era, the beings of Light and Darkness were "
+"fighting an endless war, which ended when Yarae the Arcane Lord appeared to "
+"take his place as an arbiter between both sides."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:479
+msgid "Mal Si'ah was here."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:481
-msgid "Crystal Glyph: The Prophecy of the Union"
+msgid ""
+"There are permanent gateways to Inferno hidden in many different worlds, "
+"protected by the chosen Gatekeepers of Iluvia."
 msgstr ""
 
-#. [event]
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:490
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:483
 msgid ""
-"Two beings are going to be born, at some point in time close to the "
-"awakening of Uria, the demonic matrix. One of them will have the Globe of "
-"Darkness embedded into its spirit, the other will have the Globe of Light."
+"The prophecy of the Union has been passed from generation to generation. Its "
+"definitive origin is still uncertain."
 msgstr ""
 
-#. [event]
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:491
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:485
 msgid ""
-"When both beings join their spirits by the unbreakable link and bound, the "
-"Globes will be joined too, spawning the power of the Union once again, to be "
-"integrated into both beings. This, to the extent of their material and "
-"mortal barriers."
+"Uria: one of the Original Ten Guardians, the exact powers she possesses are "
+"still unknown."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:487
+msgid ""
+"Two beings shall be born, each one in the places were the Globes of Light "
+"and Darkness were hidden. The powers of Light and Darkness shall bind to "
+"each one, and once both beings join their spirits, they shall become the new "
+"Avatars of the Union."
+msgstr ""
+
+#. [scenario]: id=09_The_Library
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:489
+msgid ""
+"A cataclysm destroyed our civilization and creations, except for a few of us "
+"who survived long enough to set a secret city underground."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:511
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:504
 msgid "Groaar!!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:515
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:508
 msgid "Aaah! Living fire!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:517
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:510
 msgid "Living fire? How can that be possible...?"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:518
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:511
 msgid ""
 "There is strong magic at work here, the magic of the nature elements. "
 "Everything is alive...the cave walls, the fire, the darkness...even the dust."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:519
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:512
 msgid ""
 "Physical weapons are unlikely to be of any use against them. Be careful."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:535
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:528
 msgid "Skreeech!!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:540
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:533
 msgid ""
 "That thing looks like a reptilian creature that was somehow rid of its "
 "eyes... Awful."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:545
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:538
 msgid ""
 "I bet the civilization that settled here in these caves did monstrous "
 "experiments on them. I can not help but wonder what other kinds of "
@@ -6819,78 +6781,78 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:562
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:555
 msgid "Animated rocks. Oh great!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:567
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:560
 msgid ""
 "Surely spears, swords, or arrows will not do well against these rocky beings."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:576
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:569
 msgid "Die, elves!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:581
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:574
 msgid "Darn, they have followed us this far?!"
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:586
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:579
 msgid ""
 "Not good. Here in the deepest places of the earth they are stronger than our "
 "elvish fighters."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:591
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:584
 msgid "Pah. They are no challenge for my minions!"
 msgstr ""
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:596
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:589
 msgid ""
 "Lemme crush one with my hammer. I wanna see how well they fare against "
 "ancient dwarven magic!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:611
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:604
 msgid ""
 "What is their skin made of? It doesn't seem like it can really withstand "
 "that much damage."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:626
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:619
 msgid "Begone, foul monstrosity!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:644
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:637
 msgid ""
 "You, creatures who dare to stand in our way... Who are you working for, and "
 "for what purpose? Speak!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:649
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:642
 msgid " *ack* Heh heh. We'll...never tell...you..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:667
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:660
 msgid ""
 "I should have known. No truthful information can be obtained from these "
 "worms."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:686
+#: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:679
 msgid "I wonder where these holes in the ground lead to."
 msgstr ""
 
