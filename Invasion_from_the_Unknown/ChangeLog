@@ -6,6 +6,23 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.14.1:
+- Graphics:
+    - New or updated unit graphics: Demon, Demon Grunt, Demon Zephyr, Demon
+      Warrior, Skeleton Rider
+
+- Scenarios:
+    - 9 (The Library):
+        - New backstoriffic information.
+    - 15 (Shadows of Time):
+        - Fix potential crashes/lock-ups during the initial dialogue
+          with Wesnoth versions < 1.6.1.
+
+- Units:
+    - Fix animation filter issues with Chaos Longbowmen.
+
+________________________________________________________________________________
+
 Version 1.14.0:
 - Graphics:
     - New or updated unit graphics: Shaxthal Warlord, Shaxthal Protector
@@ -564,5 +581,6 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id$
+; $Id: ChangeLog 5363 2009-09-18 23:33:47Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
+; vim: tabstop=4: shiftwidth=4: expandtab: softtabstop=4: autoindent:
