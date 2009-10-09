@@ -6,6 +6,21 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.14.2:
+- Graphics:
+    - New or updated unit graphics: Skeleton Rider
+    - New portrait: Shadow Master [D]
+
+- Scenarios:
+    - Fix infinite loop/crash with Wesnoth 1.6.x on the episode II prelude
+      scenario.
+    - 6 (The Moon Valley):
+        - Fix long delay when loading saved games of a different scenario or
+          start menu when music is enabled.
+    - 18 (Voices of the Armageddon):
+        - Fix typo.
+________________________________________________________________________________
+
 Version 1.14.1:
 - Graphics:
     - New or updated unit graphics: Demon, Demon Grunt, Demon Zephyr, Demon
@@ -581,6 +596,6 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 5363 2009-09-18 23:33:47Z shikadilord $
+; $Id: ChangeLog 5478 2009-10-05 22:57:32Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
 ; vim: tabstop=4: shiftwidth=4: expandtab: softtabstop=4: autoindent:
