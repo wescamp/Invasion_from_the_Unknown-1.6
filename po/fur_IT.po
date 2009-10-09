@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-09-21 22:00+0200\n"
+"POT-Creation-Date: 2009-10-09 22:01+0200\n"
 "PO-Revision-Date: 2008-05-01 16:44+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2347,8 +2347,8 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:353
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:203
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:303
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:432
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:495
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:433
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:496
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:46
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:24
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:51
@@ -2633,8 +2633,8 @@ msgstr ""
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:356
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:435
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:498
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:436
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:499
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:49
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:28
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:55
@@ -3062,7 +3062,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #. [side]: type=Ancient Lich, id=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:228
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:958
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:959
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1249
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:37
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:386
@@ -3603,8 +3603,8 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:355
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:205
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:305
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:434
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:497
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:435
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:498
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:48
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:27
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:54
@@ -5306,40 +5306,40 @@ msgid "To arms!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:290
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:286
 msgid ""
 "So we have got intruders, huh? Get rid of them before I behead you idiots!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:291
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:287
 msgid "Yes, sir."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:292
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:288
 msgid ""
 "(I wonder if it's safe to do this. After all, they are elves! They don't "
 "fight for blood; they'll have some sneaky reason...)"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:293
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:289
 msgid "As you command, my lord. (Elves? Strange.)"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:294
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:290
 msgid "Um... okay. Obey our chieftain, rats!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:295
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:291
 msgid "Ya heard da big boss. Move now, stinkin' worms!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:300
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:296
 msgid ""
 "And so, not knowing what perils were awaiting them in the dark heart of the "
 "world, the group entered the caves searching for the power that might save "
@@ -5347,212 +5347,212 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:305
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:301
 msgid "We have defeated them. To the caves!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:317
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:313
 msgid "Aieeee! Why this hap'n to meee?!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:321
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:317
 msgid "What a lunatic. Well, they did call it the 'Moon' valley..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:332
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:328
 msgid "Die, ya' elven scum!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:343
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:339
 msgid "Pleez, not my face, no!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:347
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:343
 msgid "Uh?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:358
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:354
 msgid "Ouch! I'm vanquished..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:369
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:365
 msgid "Yelp!! *ack*"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:380
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:376
 msgid "Nooo!! Why nobody protects mee..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:391
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:387
 msgid ""
 "All that gold spent on minions to protect me, and they fail when I need them "
 "the most. Incompetent moronic fools. *ugh*"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:411
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:407
 msgid ""
 "Those towers look vacant, but there is something about them I mistrust. Be "
 "careful, for it may be a trap of the orcs."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:421
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:417
 msgid ""
 "So, my incompetent warriors could not stop you from entering my fortress. No "
 "matter - my bodyguards will send you to hell! Haw, haw, haw!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:428
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:424
 msgid "Vagkar"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:429
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:425
 msgid "Krislo"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:430
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:426
 msgid "Urdo"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:431
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:427
 msgid "Gremle"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:432
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:428
 msgid "Fir"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:433
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:429
 msgid "Ewurk"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:434
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:430
 msgid "Ceel"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/23By.cfg:104
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:444
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:440
 msgid "Uh-oh."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:445
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:441
 msgid ""
 "The lad was right. It was a trap, and look - the orcs are calling upon "
 "reinforcements!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:447
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:443
 msgid "Turgan"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:448
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:444
 msgid "Akir"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:451
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:447
 msgid "Cur"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:464
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:460
 msgid ""
 "Hey, I see something in there. Could it be another entrance to the caves?"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:465
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:461
 msgid ""
 "Perhaps, but I'd prefer not to wander around here. If the orcs are not "
 "guarding that cave, it might be because they found great peril in there."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:475
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:471
 msgid "Um...this definitely doesn't look like another entrance to the caves."
 msgstr ""
 
 #. [unit]: type=Yeti, id=White Giant
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:480
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:476
 msgid "White Giant"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:484
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:480
 msgid "Rooaarlg, raaar!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:485
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:481
 msgid "Wha..."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:486
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:482
 msgid "Help!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:487
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:483
 msgid ""
 "I have heard and read old stories of creatures as big as that one, but I had "
 "thought they were only myths!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:488
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:484
 msgid ""
 "Retreat! We must lure the creature out, surround it, and strike it down. "
 "Quickly now!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:489
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:485
 msgid "Sounds like a good plan!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:494
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:490
 msgid ""
 "The Short Darkness starts to cover the land, giving the orcs a new advantage."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:495
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:491
 msgid "Yes, but the undead also fight better during night."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:496
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:492
 msgid ""
 "The combination of the might of the undead and the effectiveness of our "
 "hunters will be a great help in surviving the darkness in this valley."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:501
+#: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:497
 msgid ""
 "Ahh, the Long Darkness, at last! It is my opportunity to teach the orcish "
 "species a lesson to remember. May the undead hordes rise and swallow their "
@@ -7207,7 +7207,7 @@ msgstr ""
 #. [unit]: type=Lady of Light, id=Elynia
 #. [unit]: type=Sylvan Warden, id=Elynia
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:215
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:884
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:885
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1179
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1494
 msgid "Elynia"
@@ -8295,8 +8295,8 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:206
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:354
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:304
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:433
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:496
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:434
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:497
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:47
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:25
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:52
@@ -11263,7 +11263,7 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:126
-msgid "Ha, ha, ha! You're end is nigh!"
+msgid "Ha, ha, ha! Your end is nigh!"
 msgstr ""
 
 #. [event]
@@ -14767,7 +14767,7 @@ msgid "Argan"
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:245
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:246
 msgid ""
 "Beneath the metallic mask was Argan, not the Shadow Master. But he was no "
 "longer a living, natural being. His face had various metallic objects "
@@ -14777,24 +14777,24 @@ msgid ""
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:247
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:248
 msgid ""
 "And judging by a single look at his face, what lay beneath his robes was "
 "obvious. Argan, the Master of Darkness, was in fact the Shadow Master."
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:249
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:250
 msgid "I cannot...believe it."
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:251
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:252
 msgid "How could you..."
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:253
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:254
 msgid ""
 "Surprised? I expected that. And you may hate me for my choices, but I did "
 "all of this only for you. But you can come to my side once again, and I'll "
@@ -14803,19 +14803,19 @@ msgid ""
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:255
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:256
 msgid "Argan, how could you..."
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:257
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:258
 msgid ""
 "Foul impostor! You are no longer Argan, the Lord of Darkness! You are "
 "nothing but the remains of his body turned into an accursed machine of evil!"
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:259
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:260
 msgid ""
 "Prepare to die, again if necessary, you forsaken wretch! You'll pay for each "
 "and every one of your heinous deeds. Your empire of evilness, treachery, and "
@@ -14823,7 +14823,7 @@ msgid ""
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:262
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:263
 msgid ""
 "You amuse me, pitiful buffoons. The power you may or may not possess is "
 "nothing compared to the forces of Chaos, of which I am the living "
@@ -14833,12 +14833,12 @@ msgid ""
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:267
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:268
 msgid "As you command, Master."
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:270
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:271
 msgid ""
 "You amuse me, pitiful buffoons. The power you may or may not possess is "
 "nothing compared to the forces of Chaos, of which I am the living "
@@ -14848,14 +14848,14 @@ msgid ""
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:273
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:274
 msgid ""
 "By now, you have very likely learned there are things worse than death. "
 "Destruction, but of soul and mind, not of body and matter."
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:275
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:276
 msgid ""
 "If someone is to be destroyed this day, it is you, not us. We have the power "
 "of the Union on our side, and you have nothing but your mastery of the "
@@ -14864,49 +14864,49 @@ msgid ""
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:279
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:280
 msgid "What is happening?"
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:400
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:401
 msgid ""
 "Their power is incredibly great. I have never seen anything like this in my "
 "entire life!"
 msgstr ""
 
 #. [event]: race=shaxthal
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:404
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:405
 msgid "I call upon you, Death Knight. Come and help us in our time of need!"
 msgstr ""
 
 #. [unit]: id=Death Knight
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:409
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:410
 msgid "Death Knight"
 msgstr ""
 
 #. [objectives]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:431
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:432
 msgid "Destroy Argan and put a definitive end to his evil empire."
 msgstr ""
 
 #. [unstore_unit]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:453
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:454
 msgid "absorbed damage"
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:463
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:464
 msgid "You are just feeding me, fools!"
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:466
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:467
 msgid "Then what blasted thing is your body made of?!"
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:468
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:469
 msgid ""
 "Uria dismantled my original body, and rebuilt it to be stronger and "
 "deadlier, to serve her cause as her blessed messenger of Chaos. No one can "
@@ -14914,12 +14914,12 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:470
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:471
 msgid "So, you did this? You did this perversion to them?"
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:472
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:473
 msgid ""
 "Aye, but they are nothing more than cheap imitations of my own body's "
 "design. I am far more powerful than any of them. Don't you see? All that is "
@@ -14929,7 +14929,7 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:474
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:475
 msgid ""
 "No... You are a monster now, an abomination. Not worthy of my love. I can "
 "hardly believe I spent so much time with you, not knowing what you'd become "
@@ -14937,23 +14937,23 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:476
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:477
 msgid "What are you saying? You know you are not being serious!"
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:478
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:479
 msgid ""
 "I am being serious. Mal Keshar, let's finish with this once and for all!"
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:480
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:481
 msgid "As you command, my lady. Let's do it."
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:482
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:483
 msgid ""
 "I was the one who granted you life in first place, when you were nothing. I "
 "sacrificed everything for you, and this is how you repay me?! No... NO! If "
@@ -14963,56 +14963,56 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:484
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:485
 msgid "Hmm. Probably wrong about that last part."
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:486
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:487
 msgid ""
 "The power that was granted to you shall now be removed. For the sake of the "
 "Irdya's future... I... I must do this..."
 msgstr ""
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:488
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:489
 msgid ""
 "No, you shall never defeat me! I am invincible! I am far superior to the "
 "power of the Union!!"
 msgstr ""
 
 #. [objectives]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:494
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:495
 msgid ""
 "Use the Union to destroy Argan and put a definitive end to his evil empire."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:573
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:574
 msgid "What's this? Look out, drones emerge from his body with each hit!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:678
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:679
 msgid ""
 "Aaaah! The power... My power, is... It is tearing me apart! You'll pay for "
 "this! Aaargh!!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1031
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1032
 msgid "What happened?"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1033
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1034
 msgid ""
 "It seems that Argan's death has invalidated the power of the Union, and "
 "Elynia and Mal Keshar are back to normal."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1035
+#: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1036
 msgid "The prophecy has just been broken."
 msgstr ""
 
@@ -16699,7 +16699,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:52
+#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:53
 #: Invasion_from_the_Unknown/units/humans/Chaos_Invoker_Lore.cfg:48
 #: Invasion_from_the_Unknown/units/demons/Warrior.cfg:40
 #: Invasion_from_the_Unknown/units/demons/Grunt.cfg:39
@@ -16758,7 +16758,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:64
+#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:65
 #: Invasion_from_the_Unknown/units/demons/Shadow_Courier.cfg:54
 msgid "noctum"
 msgstr ""
@@ -19077,7 +19077,7 @@ msgid "Master of Darkness"
 msgstr ""
 
 #. [unit_type]: id=Master of Darkness, race=shaxthal
-#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:30
+#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:31
 msgid ""
 "The Evil Emperor of Chaos, the Shadow Master, has finally revealed his "
 "appearance - formerly known only to the highest Chaos lores - to the world, "
@@ -19095,7 +19095,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:40
+#: Invasion_from_the_Unknown/units/shaxthal/Boss_Master_of_Darkness.cfg:41
 msgid "soul ripper"
 msgstr ""
 
@@ -19594,7 +19594,7 @@ msgstr ""
 msgid ""
 "Only those adept in the arts of true darkness can create the abominations "
 "known as the Shadow Spawn. A Shadow Spawn is essentially a spirit composed "
-"of dark energy that is created by combing necromantic magic with magic of "
+"of dark energy that is created by combining necromantic magic with magic of "
 "true darkness. Like some undead, they possess the necromantic ability to "
 "raise the corpses of those they kill to the cruel world of unlife."
 msgstr ""
