@@ -6,6 +6,21 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.14.3:
+- Scenarios:
+    - 8 (Errand of Hope):
+        - Made several changes in the initial dialog sequence.
+    - 10 (Source of Light):
+        - Set a sensible minimum amount of gold for the player.
+    - 11 (Strike on New Knalga):
+        - Set a sensible minimum amount of gold for the player.
+
+- Units:
+    - The following units are no longer affected by plague: Fungoid, Giant Ant,
+      Lesser Giant Spider, Leech, Giant Leech, Brain Drainer Leech, Crow,
+      Falcon, Rabbit, Eyestalk.
+________________________________________________________________________________
+
 Version 1.14.2:
 - Graphics:
     - New or updated unit graphics: Skeleton Rider
@@ -596,6 +611,6 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 5478 2009-10-05 22:57:32Z shikadilord $
+; $Id: ChangeLog 5841 2009-12-04 22:44:09Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
 ; vim: tabstop=4: shiftwidth=4: expandtab: softtabstop=4: autoindent:
