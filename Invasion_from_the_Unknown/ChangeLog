@@ -6,6 +6,11 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.14.4:
+- i18n and l10n:
+    - Updated translations from WesCamp-i18n: es, fr, hu, it, nl, ru, tr
+________________________________________________________________________________
+
 Version 1.14.3:
 - Scenarios:
     - 8 (Errand of Hope):
@@ -611,6 +616,6 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 5841 2009-12-04 22:44:09Z shikadilord $
+; $Id: ChangeLog 5961 2009-12-22 15:10:42Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
 ; vim: tabstop=4: shiftwidth=4: expandtab: softtabstop=4: autoindent:
