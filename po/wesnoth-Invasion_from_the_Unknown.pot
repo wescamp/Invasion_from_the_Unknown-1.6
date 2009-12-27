@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-10-09 22:01+0200\n"
+"POT-Creation-Date: 2009-12-27 16:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -212,7 +212,7 @@ msgid "Shadow Master"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Invasion_from_the_Unknown/base-utils.cfg:130 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:825
+#: ./Invasion_from_the_Unknown/base-utils.cfg:130 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:684
 msgid "Looming Voice coming from Everywhere"
 msgstr ""
 
@@ -750,7 +750,7 @@ msgid "You receive $temp_gold_retrieval_amount pieces of gold!"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/macros/scenario-utils.cfg:194 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1077 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:854 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:216 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:249
+#: ./Invasion_from_the_Unknown/macros/scenario-utils.cfg:194 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1077 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:713 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:216 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:249
 msgid "New objectives:"
 msgstr ""
 
@@ -1648,7 +1648,7 @@ msgid "Hold out as long as possible."
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:205 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:353 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:203 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:303 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:433 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:496 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:46 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:24 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:51 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:97 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:434 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:510 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:585 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1235 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:300 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:374 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:560 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:573 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:86 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:235 ./Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:237 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:193 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:281 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:588 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:757 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:772 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:928 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:143 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:317 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:378 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:450 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:752 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:780 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:867 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:302 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:778 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:108 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:24 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:307 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:397 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:512 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:563 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:161 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:227 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:281 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:308 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:474 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:489 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:483 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1079 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1118 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:285 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:856 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:135 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:304 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:319 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:154 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:572 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:610 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:176 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:218 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:251 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:313 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:750 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:829 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:281
+#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:205 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:353 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:203 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:303 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:433 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:496 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:46 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:24 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:51 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:97 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:434 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:510 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:585 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1235 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:301 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:374 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:560 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:573 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:86 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:225 ./Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:237 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:193 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:281 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:588 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:757 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:772 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:928 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:143 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:318 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:379 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:451 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:753 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:781 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:868 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:302 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:778 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:108 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:24 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:307 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:397 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:512 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:563 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:161 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:227 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:281 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:308 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:474 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:489 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:483 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1079 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1118 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:287 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:715 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:135 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:304 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:319 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:154 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:572 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:610 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:176 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:218 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:251 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:313 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:750 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:829 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:281
 msgid "Death of Galas"
 msgstr ""
 
@@ -1683,7 +1683,7 @@ msgid "Humans in the southern dunes... It has been quite a long time since any o
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:191 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:444
+#: ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:191
 msgid "What should we do?"
 msgstr ""
 
@@ -1695,7 +1695,7 @@ msgstr ""
 #. [message]: role=a2
 #. [event]
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:257 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:271 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:287 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1934 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:377 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:193 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:450 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:850 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1291 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:373
+#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:257 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:271 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:287 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1935 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:377 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:193 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:709 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1152 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:373
 msgid "Very well."
 msgstr ""
 
@@ -1720,7 +1720,7 @@ msgid "Defeat both enemy leaders"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:209 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:357 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:206 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:29 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:56 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:101 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:437 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:514 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:589 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1238 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:375 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:564 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:577 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:90 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:238 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:197 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:285 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:592 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:761 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:776 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:932 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:147 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:321 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:382 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:454 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:756 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:784 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:871 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:305 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:781 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:111 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:29 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:312 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:402 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:517 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:568 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:228 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:285 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:312 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:480 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:493 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:486 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1082 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1121 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:288 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:859 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:139 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:308 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:323 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:158 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:575 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:613 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:178 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:220 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:253 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:317 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:754 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:833 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:285
+#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:209 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:357 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:206 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:29 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:56 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:101 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:437 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:514 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:589 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1238 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:375 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:564 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:577 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:90 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:228 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:197 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:285 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:592 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:761 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:776 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:932 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:147 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:322 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:383 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:455 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:757 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:785 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:872 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:305 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:781 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:111 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:29 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:312 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:402 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:517 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:568 ./Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:228 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:285 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:312 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:480 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:493 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:486 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1082 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1121 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:290 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:718 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:139 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:308 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:323 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:158 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:575 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:613 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:178 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:220 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:253 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:317 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:754 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:833 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:285
 msgid "Turns run out"
 msgstr ""
 
@@ -1777,7 +1777,7 @@ msgid "South-eastern Outpost"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:298 ./Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:234
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:299 ./Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:234
 msgid "Resist until turns run out."
 msgstr ""
 
@@ -1792,7 +1792,7 @@ msgid "Death of Lédinor"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:204 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:304 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:236 ./Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:238 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:318 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:379 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:451 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:753 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:781 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:868 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:303 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:779 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:109 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:282 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:309 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:484 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1080 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1119 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:286 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:857 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:177 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:219 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:252
+#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:204 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:305 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:226 ./Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:238 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:319 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:380 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:452 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:754 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:782 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:869 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:303 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:779 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:109 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:282 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:309 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:484 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1080 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1119 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:288 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:716 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:177 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:219 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:252
 msgid "Death of Anlindë"
 msgstr ""
 
@@ -2106,7 +2106,7 @@ msgstr ""
 #. [unit]: id=Mal Keshar, type=Ancient Lich
 #. [message]: speaker=narrator
 #. [side]: type=Ancient Lich, id=Mal Keshar
-#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:228 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:959 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1249 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:37 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:386
+#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:228 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:959 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1250 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:37 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:386
 msgid "Mal Keshar"
 msgstr ""
 
@@ -2206,7 +2206,7 @@ msgid "Your kind has tried numerous times to vanquish me, but you cannot. I am m
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:840 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:242
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:699 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:242
 msgid "Anlindë?"
 msgstr ""
 
@@ -2265,7 +2265,7 @@ msgstr ""
 #. [event]
 #. [event]: (id=Mal Keshar)}
 #. [else]
-#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:485 ./Invasion_from_the_Unknown/scenarios/cutscenes/23Bx.cfg:95 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:239 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1274 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1242 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:413 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:338
+#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:485 ./Invasion_from_the_Unknown/scenarios/cutscenes/23Bx.cfg:95 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:239 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1275 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1242 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:413 ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:338
 msgid "What?"
 msgstr ""
 
@@ -2506,7 +2506,7 @@ msgid "Galas, Anlindë, or Mal Keshar must reach the northwest border of the map
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:207 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:355 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:205 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:305 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:435 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:498 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:48 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:27 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:54 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:99 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:436 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:512 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:587 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1237 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:303 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:562 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:575 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:88 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:237 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:195 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:283 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:590 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:759 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:774 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:930 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:145 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:319 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:380 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:452 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:754 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:782 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:869 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:304 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:780 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:110 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:26 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:309 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:399 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:514 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:565 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:283 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:310 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:476 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:491 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:485 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1081 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1120 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:287 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:858 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:137 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:306 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:321 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:156 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:574 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:612 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:315 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:752 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:831 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:283
+#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:207 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:355 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:205 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:305 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:435 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:498 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:48 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:27 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:54 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:99 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:436 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:512 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:587 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1237 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:304 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:562 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:575 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:88 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:227 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:195 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:283 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:590 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:759 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:774 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:930 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:145 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:320 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:381 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:453 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:755 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:783 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:870 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:304 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:780 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:110 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:26 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:309 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:399 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:514 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:565 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:283 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:310 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:476 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:491 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:485 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1081 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1120 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:289 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:717 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:137 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:306 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:321 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:156 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:574 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:612 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:315 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:752 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:831 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:283
 msgid "Death of Mal Keshar"
 msgstr ""
 
@@ -2673,7 +2673,7 @@ msgstr ""
 #. [message]: speaker=Galas
 #. [event]
 #. [message]: speaker=Anlindë
-#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:246 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:579 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1335 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:619 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1214 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1250
+#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:246 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:579 ./Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1335 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:478 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1075 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1111
 msgid "Um..."
 msgstr ""
 
@@ -3076,7 +3076,7 @@ msgstr ""
 #. [side]: type=Gutwrencher Imp, id=Laveri
 #. [side]: type=Shaxthal Sentry Drone
 #. [side]: type=Chaos Razerman, id=Renan
-#: ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:52 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:155 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:134 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:117 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:159 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:175 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:192 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:236 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:246 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:138 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:157 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:175 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:212 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:98 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:121 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:146 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:170 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:50 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:79 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:39 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:51 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:87 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:61 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:81 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:66 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:116 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:132 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:80 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:98 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:114 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:87 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:104 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:39 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:72 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:101 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:110 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:54 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:112
+#: ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:52 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:155 ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:134 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:118 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:160 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:176 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:193 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:237 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:247 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:138 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:157 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:175 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:212 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:98 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:121 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:146 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:170 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:50 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:79 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:39 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:51 ./Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:87 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:61 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:81 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:66 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:116 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:132 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:80 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:98 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:114 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:87 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:104 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:39 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:72 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:101 ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:110 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:54 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:112
 msgid "team_name^Loyalists"
 msgstr ""
 
@@ -3312,7 +3312,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:417 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1208
+#: ./Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:417 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1069
 msgid "Leader?"
 msgstr ""
 
@@ -3628,7 +3628,7 @@ msgid "Aaaaaaye!!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1151 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:947 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:236
+#: ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1151 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:948 ./Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:236
 msgid "A wall moves."
 msgstr ""
 
@@ -3718,350 +3718,350 @@ msgid "Girkag"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:234
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:224
 msgid "Secure the valley (defeat all enemy leaders)"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:244
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:234
 msgid "The group arrived in the valley which Malin Keshar had spoke of."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:245
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:235
 msgid "This is the valley of the Moon. It was named so because of an old legend."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:246
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:236
 msgid "What legend?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:247
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:237
 msgid "Many millennia ago, the people then living near here believed the end of the world had come.  Rocks fell from the sky, which was dark for many days thereafter.  There were earthquakes and other signs.  When the sun returned, there being at that time only one, they found a vast smoking crater here; and that night there was blood on the face of the Greater Moon."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:248
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:238
 msgid "If I remember correctly, I was about three years old when that..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:253
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:243
 msgid "Intruders! Alert big boss!!"
 msgstr ""
 
 #. [message]: speaker=Elynia
 #. [event]
 #. [event]: (id=Mal Hekuba) purple}
-#: ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:638 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:254 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:154
+#: ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:638 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:244 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:154
 msgid "Did you hear that?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:255
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:245
 msgid "Orcs! This valley is infested with orcs!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:256
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:246
 msgid "I suspected that."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:257
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:247
 msgid "What should we do? Are you sure of what you are doing, Keshar?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:258
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:248
 msgid "I think he has sent us to our doom deliberately!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:259
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:249
 msgid "Fools! I could have killed you all while you were sleeping if I had desired your deaths!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:260
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:250
 msgid "I would really appreciate it if you both controlled your temper. Now, do we have a plan?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:261
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:251
 msgid "Yes. We should charge ahead, slay the leader that blocks our entrance to the cave system, and continue."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:262
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:252
 msgid "Easier said than done."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:263
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:253
 msgid "Or, we could advance slowly and wipe out the entire pack."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:264
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:254
 msgid "I don't think we have the troops to do that, but I guess retreat is no longer an option."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:265
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:255
 msgid "Indeed. We have come this far and the sands we left behind hold no promise. We must fight, but after entering the caves, what will we do then?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:266
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:256
 msgid "Pray the enemy has not infested the caves before us?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:593 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:267 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:441 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:419 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:421
+#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:593 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:257 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:419 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:421
 msgid "..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:268
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:258
 msgid "I am not really sure where we must search first! If I could go in and concentrate a little..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:269
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:259
 msgid "Fair enough. To arms!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:342 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:270
+#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:342 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:260
 msgid "To arms!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:286
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:276
 msgid "So we have got intruders, huh? Get rid of them before I behead you idiots!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:287
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:277
 msgid "Yes, sir."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:288
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:278
 msgid "(I wonder if it's safe to do this. After all, they are elves! They don't fight for blood; they'll have some sneaky reason...)"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:289
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:279
 msgid "As you command, my lord. (Elves? Strange.)"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:290
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:280
 msgid "Um... okay. Obey our chieftain, rats!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:291
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:281
 msgid "Ya heard da big boss. Move now, stinkin' worms!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:296
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:286
 msgid "And so, not knowing what perils were awaiting them in the dark heart of the world, the group entered the caves searching for the power that might save them."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:301
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:291
 msgid "We have defeated them. To the caves!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:313
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:303
 msgid "Aieeee! Why this hap'n to meee?!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:317
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:307
 msgid "What a lunatic. Well, they did call it the 'Moon' valley..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:328
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:318
 msgid "Die, ya' elven scum!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:339
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:329
 msgid "Pleez, not my face, no!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:343
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:333
 msgid "Uh?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:354
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:344
 msgid "Ouch! I'm vanquished..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:365
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:355
 msgid "Yelp!! *ack*"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:376
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:366
 msgid "Nooo!! Why nobody protects mee..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:387
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:377
 msgid "All that gold spent on minions to protect me, and they fail when I need them the most. Incompetent moronic fools. *ugh*"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:407
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:397
 msgid "Those towers look vacant, but there is something about them I mistrust. Be careful, for it may be a trap of the orcs."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:417
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:407
 msgid "So, my incompetent warriors could not stop you from entering my fortress. No matter - my bodyguards will send you to hell! Haw, haw, haw!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:424
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:414
 msgid "Vagkar"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:425
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:415
 msgid "Krislo"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:426
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:416
 msgid "Urdo"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:427
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:417
 msgid "Gremle"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:428
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:418
 msgid "Fir"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:429
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:419
 msgid "Ewurk"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:430
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:420
 msgid "Ceel"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/cutscenes/23By.cfg:104 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:440
+#: ./Invasion_from_the_Unknown/scenarios/cutscenes/23By.cfg:104 ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:430
 msgid "Uh-oh."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:441
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:431
 msgid "The lad was right. It was a trap, and look - the orcs are calling upon reinforcements!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:443
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:433
 msgid "Turgan"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:444
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:434
 msgid "Akir"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:447
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:437
 msgid "Cur"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:460
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:450
 msgid "Hey, I see something in there. Could it be another entrance to the caves?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:461
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:451
 msgid "Perhaps, but I'd prefer not to wander around here. If the orcs are not guarding that cave, it might be because they found great peril in there."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:471
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:461
 msgid "Um...this definitely doesn't look like another entrance to the caves."
 msgstr ""
 
 #. [unit]: type=Yeti, id=White Giant
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:476
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:466
 msgid "White Giant"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:480
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:470
 msgid "Rooaarlg, raaar!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:481
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:471
 msgid "Wha..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:482
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:472
 msgid "Help!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:483
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:473
 msgid "I have heard and read old stories of creatures as big as that one, but I had thought they were only myths!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:484
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:474
 msgid "Retreat! We must lure the creature out, surround it, and strike it down. Quickly now!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:485
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:475
 msgid "Sounds like a good plan!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:490
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:480
 msgid "The Short Darkness starts to cover the land, giving the orcs a new advantage."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:491
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:481
 msgid "Yes, but the undead also fight better during night."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:492
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:482
 msgid "The combination of the might of the undead and the effectiveness of our hunters will be a great help in surviving the darkness in this valley."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:497
+#: ./Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:487
 msgid "Ahh, the Long Darkness, at last! It is my opportunity to teach the orcish species a lesson to remember. May the undead hordes rise and swallow their attack forces!"
 msgstr ""
 
@@ -4283,7 +4283,7 @@ msgstr ""
 #. [side]: id=Denathor, type=Dwarvish Explorer
 #. [side]: id=Furrin, type=Dwarvish Dragonguard
 #. [side]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:54 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:133 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:209 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:45 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:65
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:55 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:134 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:210 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:45 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:65
 msgid "team_name^Dwarves"
 msgstr ""
 
@@ -4304,506 +4304,436 @@ msgid "team_name^Nagas"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:284
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:286
 msgid "Explore the caves and defeat any enemies you find"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:294
-msgid "So, what is the name of this place, Keshar?"
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:295
-msgid "It used to be called Knalga, the Dwarven Kingdom. I am not sure if there are any dwarves left to justify its name in this era."
-msgstr ""
-
-#. [event]
 #: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:296
-msgid "Dwarves? Like..."
+msgid "These caves are too dark to see, even with our torches. And I do not feel well accompanied by the undead."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:297
-msgid "Like that?"
-msgstr ""
-
-#. [unit]: type=Dwarvish Fighter, id=Dwarf
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:314
-msgid "Dwarf"
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:298
+msgid "Are you elves afraid of the darkness? That's really amusing - for a race whose archers are said to be as accurate and deadly at night as they are under the light of the suns..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:322
-msgid "Help! I need... help! It almost has me!"
-msgstr ""
-
-#. [unit]: type=Troll, id=Troll
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:334
-msgid "Troll"
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:300
+msgid "Where exactly are we, Mal Keshar?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:342
-msgid "Roar!!!"
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:302
+msgid "Under these mountains, there was a dwarven kingdom, Knalga. A kingdom that was relocated and rebuilt countless times. I do not know if it still exists, but those smug midgets weren't very helpful to outsiders. So, unless their numbers are very reduced or they changed their minds after all this time isolated underground, do not expect any help from them."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:368
-msgid "Aaaah..."
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:304
+msgid "I believe that they might agree to help us if we offer them something in exchange. If they are struggling to keep control of their underground domains, then they are most likely fighting trolls and other vermin, which we could wipe out of these tunnels with the help of the undead."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:374
-msgid "Exactly... uhm... All right."
-msgstr ""
-
-#. [unit]: id=Troll's Corpse
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:419
-msgid "Troll's Corpse"
-msgstr ""
-
-#. [unit]: id=Dwarf's Corpse
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:432
-msgid "Dwarf's Corpse"
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:306
+msgid "Or we could just get rid of those pesky dwarves if they interfer with our plans. You are actually expecting them to cooperate with a band of elves who work with necromancers?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:440
-msgid "Huh, interesting. Their corpses conserve part of their former strength."
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:308
+msgid "We can try to negotiate with them. If we are to find the Lady of Light in this darkness, we'll need help from those who live in it. If that is not possible, then we might run out of provisions and never see the light of the suns again."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:442
-msgid "Why are you looking at me in that manner?"
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:443
-msgid "So, there must be dwarves left - unless we've had the ill luck of witnessing the death, and undead resurrection, of the last one..."
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:445
-msgid "Search for their leader and ask for help. We will not survive very long in these caves without the help of a local population."
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:446
-msgid "Dwarves and elves were never friends in my time."
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:447
-msgid "That's true, but they might agree if we offer them something in exchange. Those greedy cave-dwellers would not refuse some gold and help, don't you think so, Galas?"
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:448
-msgid "I guess so. But help with what?"
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:449
-msgid "Their natural enemies: Trolls. We'd better rid these tunnels of them before asking the dwarves anything."
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:451
-msgid "They'll make interesting additions to my collection."
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:467
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:324
 msgid "Um... these gates seem to be magical in nature. They gently glow in a blueish tone, and I cannot even touch them."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:508
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:365
 msgid "The cave's floor collapses, leaving the poor unit with no ground to stand on, thus falling down into the depths of the world. Who knows what fate awaits them at the chasm's bottom?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:511
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:368
 msgid "AAAAAAaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:539
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:396
 msgid "Woah, the cave's floor here looks particularly weak."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:545
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:402
 msgid "Neep, neep, neeeeep! (translated: 'Cave floor weak, cave floor weak!')"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:568
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:425
 msgid "Elves? You treacherous ones, begone, now, or we kill you!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:588
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:445
 msgid "Undead! Begone creepy one, or we crush you!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:602
-msgid "Ugh. Dis harms a lot..."
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:459
+msgid "Ugh. It hurts a lot..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:616
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:474
 msgid "Is it really necessary to do this? Kill every foe we stumble upon... Shouldn't there be another way?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:617
-msgid "Boy, you don't need to see it as an abomination. Just think of it as the evolution of that poor useless beast into a powerful force that can serve us."
-msgstr ""
-
-#. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:618
-msgid "I wouldn't... Galas, think of it as the manner in which we can avoid suffering the same fate at their hands."
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:476
+msgid "Unless you want to suffer the same fate at their hands... no. Besides, they can become more helpful after passing on. He he."
 msgstr ""
 
 #. [unit]: id=Qwirg, type=Great Troll
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:636
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:495
 msgid "Qwirg"
 msgstr ""
 
 #. [unit]: id=Hazor, type=Chaos Razerman
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:647
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:506
 msgid "Hazor"
 msgstr ""
 
 #. [unit]: id=Zoltar, type=Chaos Lore
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:657
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:516
 msgid "Zoltar"
 msgstr ""
 
 #. [unit]: id=Althurin, type=Dwarvish Arcanister
 #. [unit]: id=Althurin, type=Dwarvish Runemaster_alt
-#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:262 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:667
+#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:262 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:526
 msgid "Althurin"
 msgstr ""
 
 #. [unit]: id=Aetilaes, type=Dwarvish Pathfinder
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:683
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:542
 msgid "Aetilaes"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:808
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:667
 msgid "Bright gods!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:815
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:674
 msgid "What? It is impossible! The Goliath was supposed to have killed you all! How..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:816
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:675
 msgid "We defeated the Colossal Automaton, if that is what you're asking."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:820
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:679
 msgid "Argh... damn you, heathens. It is time for you to learn not to seek trouble from us anymore."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:826
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:685
 msgid "If the Goliath could not deal with them, then finish them off yourselves!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:834
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:693
 msgid "Your command is Law, my liege."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:835
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:694
 msgid "Blasted humans. So they made it here before us, but wait... What is this? They are fighting with the dwarves!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:836
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:695
 msgid "Elves? And with undead marching amongst their ranks? 'Tis a strange sight indeed, for I thought that yer race was still an enemy of necromancy and their practitioners. Though, ye helped us when the trolls invaded our city centuries ago. Would ye help us now?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:837
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:696
 msgid "Centuries ago? I don't understand. Our people have never been out of our valley since the Fall!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:838
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:697
 msgid "What's that ye say? I always thought yer people came from the vast Southern Desert..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:839
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:698
 msgid "This explains a lot of things actually. We shall help you."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:841
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:700
 msgid "Sssh."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:842
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:701
 msgid "Excellent. As ye can see, there are these foul men from the lands of Chaos, tryin' to take over our tunnels. But to our rear we have some rampant trolls who wish to do the same. It'd be a boon if ye can defeat both of 'em."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:843
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:702
 msgid "We shall do our best."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:848
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:707
 msgid "What is going on? Elves from the desert? Anlindë, might they be..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:849
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:708
 msgid "I believe that is a discussion for another time, when we have finished our new job here."
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:855
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:714
 msgid "Defeat all enemy leaders"
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:871
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:730
 msgid "Friend elves, I must report this news to the king. Please stand fast, I shall be back with ye soon."
 msgstr ""
 
 #. [unit]: type=Dwarvish Fighter, id=FAKEDWARFLEADER
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:885 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:930
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:744 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:789
 msgid "King Foo-Bar"
 msgstr ""
 
 #. [unit]: type=Dwarvish Fighter, id=FAKEDWARFLEADER
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:887 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:933
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:746 ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:792
 msgid ""
 "NO ONE SHOULD BE HERE\n"
 "-- Shadow Master"
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:903
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:762
 msgid "He just might be escaping from the battlefield..."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:904
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:763
 msgid "No... I don't think so. Dwarves have always been very war-like. They would not leave a battle just to let others do the dirty work, it would be going against their pride."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:919
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:778
 msgid "Althurin, sir. You are seriously injured!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:920
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:779
 msgid "Argh... I need... I need to report this news to the king. I'm severely injured, but I hafta make it there. Please stand fast, friend elves. I shall be back with ye soon."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1029
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:890
 msgid "Dwarf-friends, ye made it. Now, follow me to the Throne Room, King Asthorgar awaits. He'll be pleased to hear and see news of ye and yer kind again."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1058
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:919
 msgid "Oh my, who could have left behind such a precious amount of gold! 190 pieces... Not bad, huh?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1092
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:953
 msgid "Ah! Giant insects!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1093
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:954
 msgid "Ants, but they are bigger than a tiger! What happened to them?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1094
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:955
 msgid "In the darkness of the depths of the world, most animals and insects grow far beyond their usual sizes. So have a care, there may be more dangerous freaks in this place."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1124
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:985
 msgid "It must be common in these caverns to stumble on giant ants such as these..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1137
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:998
 msgid "Wait. I just heard something moving in these waters. Who goes there?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1140
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1001
 msgid "NOTE FOR TRANSLATORS: Eela is a female nagini name derivated from 'eel', that I invented IIRC :) Use it as you desire in your target language."
 msgstr ""
 
 #. [unit]: type=Naga Fighter, id=Eela
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1145
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1006
 msgid "Eela"
 msgstr ""
 
 #. [unit]: type=Naga Fighter, id=Xargasze
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1158
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1019
 msgid "Xargasze"
 msgstr ""
 
 #. [unit]: type=Naga Fighter, id=Zeethalius
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1170
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1031
 msgid "Zeethalius"
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1185
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1046
 msgid "Can't we have some peazzz, what the... Undead! We sssshall not tolerate thissss, en garde!"
 msgstr ""
 
 #. [else]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1189
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1050
 msgid "Can't we have some peazzz? On the ssssurface there are thossse foul filthy fiendsss, and here underground we have theezzz intrudersss..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1194
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1055
 msgid "These are not times of peace. You will never find peace again until the evil is finally vanquished."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1195
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1056
 msgid "I sssee."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1196
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1057
 msgid "You notice you are not speaking to senseless creatures, but to intelligent potential allies. So, you decide to ask them..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1197
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1058
 msgid "Would you join us? We would appreciate your help."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1198
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1059
 msgid "What for?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1199
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1060
 msgid "We want to vanquish the evil to finally have some peace, like you."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1200
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1061
 msgid "So we'd get peazzz again? And what ellssse? If you don't have a good offer, we ssshall sssstay here, if you don't mind."
 msgstr ""
 
 #. [option]: speaker=Galas
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1216
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1077
 msgid "A better home, in the large body of water called 'Ocean' far to the West, to be free!"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1219
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1080
 msgid "Ssssorry, we sssshall never have peazzz or freedom in the ocean, with the filthy merfolk tainting the plassse."
 msgstr ""
 
 #. [option]: speaker=Galas
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1223
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1084
 msgid "Gold. What about 10 pieces to start with?"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1226
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1087
 msgid "We are not interesssted in brilliant metal peezzzes. Sssorry."
 msgstr ""
 
 #. [option]: speaker=Galas
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1230
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1091
 msgid "Some fun, killing enemies with us, perhaps..?"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1233
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1094
 msgid "Sssoundss like fun. What do you think, brothersss?"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1234
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1095
 msgid "Good deal, indeed."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1235
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1096
 msgid "I agree with that."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1246
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1107
 msgid "All right."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1247
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1108
 msgid "What do you think, Anlindë?"
 msgstr ""
 
 #. [option]: speaker=Anlindë
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1252
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1113
 msgid "I do not trust them. We should kill them just in case they attack us afterwards."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1254
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1115
 msgid "Very well. Kill them."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1255
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1116
 msgid "Treacherousss foolsss! You shall die firsssst!!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1263
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1124
 msgid "I hope thisss ssservess as a lesssson to our sspeciesss about the treachery of the ssssurface dwellersss..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1273
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1134
 msgid "Argh..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1283
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1144
 msgid "Ssstupid creaturesss..."
 msgstr ""
 
 #. [option]: speaker=Anlindë
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1289
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1150
 msgid "They have chosen their path. We must respect their decision."
 msgstr ""
 
 #. [else]: (id=Eela) canrecruit no}
-#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1301
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1162
 msgid "Great then, welcome to our group!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: ./Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1196
+msgid "This coffin is empty."
 msgstr ""
 
 #. [scenario]: id=09_The_Library
@@ -4849,7 +4779,7 @@ msgid "Optional: Defeat all enemy leaders (Bonus)"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:305 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:320 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:381 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:453 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:755 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:783 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:870 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:28 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:311 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:401 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:516 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:567 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:284 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:311 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:479 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:488
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:306 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:321 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:382 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:454 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:756 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:784 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:871 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:28 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:311 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:401 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:516 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:567 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:284 ./Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:311 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:479 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:488
 msgid "Death of Althurin"
 msgstr ""
 
@@ -5124,965 +5054,965 @@ msgid "The Source of Light"
 msgstr ""
 
 #. [side]: id=Mena, type=Demon Warrior
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:37
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:38
 msgid "Mena"
 msgstr ""
 
 #. [side]: id=Mena, type=Demon Warrior
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:47
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:48
 msgid "team_name^Demons"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:316
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:317
 msgid "Find the 'Source of Light'"
 msgstr ""
 
 #. [message]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:329
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:330
 msgid "It is...an enormous power. It fills the entire place!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:331
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:332
 msgid "I feel it. It is the Source of Light. Her presence is weak in comparison to when she was on the surface, but still strong nonetheless."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:332
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:333
 msgid "She is here. We have arrived, finally..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:333
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:334
 msgid "You magic-skilled people can perceive things which are beyond me."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:334
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:335
 msgid "Indeed, lad. Magic experience grants ye the ability to perceive the existence of things which are ignored by common folk. My runic detectors indicate that an ancient magic affects these tunnels, a magic unknown to dwarves of the present age."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:335
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:336
 msgid "Fair enough, find the Source. We should not waste too much time in this search, for we do not know when those fiends will let themselves fall upon Knalga."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:336
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:337
 msgid "If they have not already."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:337
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:338
 msgid "I hope they haven't. Our economy is thrivin', but it's still less than adequate for supportin' us in a full-scale war."
 msgstr ""
 
 #. [message]: role=boyscout
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:341
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:342
 msgid "Less chatter and more scouting, people, before the walls cave in on us!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:354
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:355
 msgid "Surely I could use some help here!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:355
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:356
 msgid "Die, microscopic vermin!"
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:368
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:369
 msgid "The elves! Damn, the rearguard could not hold against them!"
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:369
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:370
 msgid "Persistent fools. But it matters little; we shall destroy them, shan't we? For the Emperor!"
 msgstr ""
 
 #. [then]
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:370 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1637
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:371 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1638
 msgid "Oh."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:371
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:372
 msgid "They must be after our savior. They want to stop us!"
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:372
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:373
 msgid "Their master must be aware of what fate lies in store for them if we call upon the power of the Union. And it looks like they have a never-ending supply of grunt attackers, too."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:373
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:374
 msgid "We must try to defeat this group now, before they can invoke reinforcements and secure these caves. I hope we can manage it."
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:377
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:378
 msgid "Defeat the demon leader"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:396
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:397
 msgid "Oh, Master... I have...failed..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:406
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:407
 msgid "Die, you fiend! And stay dead!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:435
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:436
 msgid "Oooh! What the... Hey, look! The cave wall there has raised!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:444
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:445
 msgid "Let's continue."
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:449
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:450
 msgid "Explore the main chamber and find the 'Source of Light'"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:740
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:741
 msgid "The earth shakes! It must be a volcanic eruption!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:741
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:742
 msgid "No, it is not. We are just awakening the forces of nature by merely being here. Which indicates no one has been in these caves for a very long time, possibly for millions of years."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:742
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:743
 msgid "Except the Lady of Light, whose energy comes from the walls at the center of the chamber!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:743
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:744
 msgid "Right... This was her final resting place. She bound and sealed herself within this chamber, for she probably thought nobody would need her again. Hmph. An elegant manner of killing oneself temporarily, indeed."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:744
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:745
 msgid "What should we do? These walls are impassable!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:745
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:746
 msgid "There must be a way to open these walls. The chamber is shaped around a hexagonal center, and its corners look strangely clean. The runes carved in each one of them must indicate something, and being all different in each corner, it might mean that we have to activate them from six different places, away from the chamber."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:746
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:747
 msgid "Yes, runic glyphs! They activate on contact, and the most important chambers, gates, and tunnels were designed to be opened with this same sort of glyph. But, where are they?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:747
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:748
 msgid "We'll have to explore to find their locations."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:748
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:749
 msgid "We ought to be careful. We are not welcome here. I can sense dangerous creatures of all kinds roaming about."
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:751 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:779
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:752 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:780
 msgid "Find the 6 glyphs that should open the central chamber."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:775
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:776
 msgid "Perhaps if I can concentrate for a while, I could figure out the location of each glyph."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:776
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:777
 msgid "Really? That would be a great help."
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:785
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:786
 msgid "Let Mal Keshar rest for three turns and he'll reveal the location of each magic glyph."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:849
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:850
 msgid "Ah. Got it."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:863
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:864
 msgid "My thanks. This will ease our search greatly. Now we just have to find a way to get to each location."
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:866
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:867
 msgid "Activate the 6 glyphs that should open the central chamber."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:909
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:910
 msgid "Glyph activated."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1011
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1012
 msgid "All glyphs activated. The earth shakes!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1059
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1060
 msgid "This is it!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1061
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1062
 msgid "She is there, let us go."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1063
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1064
 msgid "I have been waiting for this for too long."
 msgstr ""
 
 #. [message]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1113
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1114
 msgid "Hello there! Anybody at home?"
 msgstr ""
 
 #. [message]: type=Wose
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1118
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1119
 msgid "Intruders! Protect the Lady of Light!"
 msgstr ""
 
 #. [message]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1131
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1132
 msgid "Argh!! Yelp..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1139
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1140
 msgid "Woses in this place? How odd."
 msgstr ""
 
 #. [message]: type=Wose
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1143
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1144
 msgid "Destroy the necromancer!!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1146
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1147
 msgid "Huh? Nay, prepare to meet *your* fate, you..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1148
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1149
 msgid "Stop! We are the Elves of the Valley of Elynia. You must let us pass!"
 msgstr ""
 
 #. [message]: type=Wose
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1152
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1153
 msgid "The elvish race was extinguished by the events after the Fall. You cannot be elves. Impostors!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1155
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1156
 msgid "Aaah, they're gonna crush us!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1157
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1158
 msgid "I call upon the powers of Light! May they awaken our savior from her millennial sleep!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1167
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1168
 msgid "As Anlindë pronounced the spell, the great tree at the center of the chamber disappeared and a beautiful elven lady materialized in its place, lying on the grass floor. Big dragonfly wings on her back, and pale red hair and eyes made it obvious that she was not any elf, but the Lady of Light. Half-asleep, her powers were still strong enough to illuminate the surroundings without requiring any effort from her."
 msgstr ""
 
 #. [unit]: type=Lady of Light, id=Elynia
 #. [unit]: type=Sylvan Warden, id=Elynia
-#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:215 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:885 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1179 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1494
+#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:215 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:885 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1180 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1495
 msgid "Elynia"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1193
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1194
 msgid "Who has...awakened me?"
 msgstr ""
 
 #. [message]: id=Galas
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1197
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1198
 msgid "We are..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1200
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1201
 msgid "Elves? Ehm... That's not possible. I may be still asleep..."
 msgstr ""
 
 #. [message]: id=Mal Keshar
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1204
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1205
 msgid "Actually, no."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1207
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1208
 msgid "A necromancer? No, I do not allow any of your kind in my dreams! Say your last words!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1209
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1210
 msgid "No, wait a second..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1240
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1241
 msgid "She's... she is..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1254
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1255
 msgid ""
 "(pile of dust laying on the ground)\n"
 "She's lovely."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1256
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1257
 msgid "Well, thank you. You have awoken me, then. May I know who you are and what it is you want?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1258
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1259
 msgid "I am Galas, leader of the elves who inhabited your valley, my Lady. This is..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1260
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1261
 msgid "Althurin, High Dwarven Runemaster to the Kingdom of Knalga."
 msgstr ""
 
 #. [event]
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/cutscenes/08x.cfg:152 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1262
+#: ./Invasion_from_the_Unknown/scenarios/cutscenes/08x.cfg:152 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1263
 msgid "Anlindë, First Advisor of Galas."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1264
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1265
 msgid "I'm Igor. I'm afraid I don't have any interesting occupations nowadays..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1266
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1267
 msgid "Mal Keshar, necromancer extraordinaire and sort of a burned pile of bones. Could you quit your chatter and restore my old body?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1268
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1269
 msgid "I was certainly not informed of having a valley of my own. And why should I help one of your kind, necromancer?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1270
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1271
 msgid "Actually, he has assisted us along the way to find you, my lady, and saved our lives multiple times. You are the Lady of Light, are you not?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1272
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1273
 msgid "That is what my people used to call me. And how can I trust your word, dreadful cultist?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1276
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1277
 msgid "I might have been asleep for all this time but my memory still serves me very well, Galas. I can sense Telchior's blood flowing through your veins - he was a real fool by sparing the life of this elf. But I suppose we could set our differences aside and talk. Why did you come here? What do you need?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1278
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1279
 msgid "After you parted ways with our people, and those now known as desert elves, we found a new home in a valley located in the far East, which we named in your honor and lived there for a long time. However, recent events forced us to flee from there and find a new home. That is when we met Keshar..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1280
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1281
 msgid "Mal Keshar, please."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1282
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1283
 msgid "...and he led us here to ask you for help in our war against those vile creatures called 'demons'..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1284
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1285
 msgid "The what? Demons!? But...but... That's impossible! We sealed Yanqui, closed the portal, and made sure they would never return!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1286
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1287
 msgid "Yanqui? I do not understand..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1288
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1289
 msgid "It is a sad history that was forbidden to be told to new generations. You would not understand it and the huge implications those events bring."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1290
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1291
 msgid "True enough. But you cannot blindly face an unknown enemy on the battlefield - that would only bring you a harsh defeat. These are not regular foes. These are wicked monsters that do not feel, do not listen, and most certainly do not love."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1292
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1293
 msgid "A minute of silence followed."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1294
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1295
 msgid "I can feel the suffering of your people. I know... Those creatures almost destroyed the last remnants of the elvish civilization. We are facing the danger of extermination at their hands."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1296
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1297
 msgid "And you, necromancer Mal Keshar. I long sought to destroy you for your crimes. You attacked innocent travelers, peaceful villages, and attempted to put an end to the orcish tribes of the North, even when they were a part of the Northern Alliance! But you are tired of your evil ways. Your soul is corrupted, but you seek redemption - I feel it. Malin the Damned."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1298
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1299
 msgid "The last person who called me that had a rather unpleasant death - but I bet you know that, too."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1300
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1301
 msgid "I thought for a second that you would be grateful if I restored your body, but..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1302
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1303
 msgid "No, no, no! Do it, please! This position is very uncomfortable for me. I swear that I'll do anything for you. Anything!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1334
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1335
 msgid "Ahhh. Much better!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1336
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1337
 msgid "My lady, have you met the demons before?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1338
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1339
 msgid "Not in great numbers. The only demon I ever met was a powerful ruler of their kind... What, Anlindë? I hope you understand that we cannot continue to conceal that episode of our lives from Galas and this necromancer. They need to know the nature of the forces they have encountered. So, the time to tell the story of the demon lord Yanqui has come."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1340
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1341
 msgid "I am not sure it is necessary. You may not trust me, and I do not care, but I really do not wish to see such conflicts occur again!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1342
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1343
 msgid "I trust this brave warrior. Very few can face and survive a slaughter, and not lose their sanity. As for you, Anlindë, you know well the story so it does not matter. And the necromancer does not represent any authority for other elves - whatever he says will not be taken into account by them - so he is not a threat, as far as I am concerned."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1349
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1350
 msgid "Should I just...go?"
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1351
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1352
 msgid "Hmm... You are a lonely goblin. I guess it would not hurt if you listen as well. Your people may have forgotten the history, but I see no problem in teaching it to you. Perhaps someday you may return to them and remind them of the horrors of the past which we should all avoid in the future. For good."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1353
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1354
 msgid "Oh, many thanks Lady! I have never been treated as an equal by non-goblins! Many thanks!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1357
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1358
 msgid "No other elf should listen to this conversation. Now, you will probably want to sit down on the grass to relax and listen. This is a very long history that you ought to know."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1386
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1387
 msgid "Galas ordered the rest of his kinsmen to patrol the caves, while Mal Keshar commanded his minions to protect the main chamber and make sure no one could listen in on the conversation they were having with Elynia."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1391
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1392
 msgid "We should start with the old story of the Golden Age. The continent was mostly dominated by humans, who had established the Empire of Wesnoth eons ago in the Central lands. The elves were distributed throughout the northeastern, northwestern, and southwestern forests, although small groups also wandered around Wesnoth or lived in the smaller forested areas. The dwarves controlled all the mountains, hills, and so forth, usually competing with the fierce orcs and trolls who also favored those regions, and trading their precious ores with us elves, and the humans of Wesnoth."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1393
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1394
 msgid "The forests south of the Dwarven Kingdom of Knalga were known as the Wesmere forest. Eons ago, they established themselves as the sole authority for elves of all other countries. We valued our sages for their knowledge, more than for their age, martial skill, or magic power - although power comes from knowledge, and knowledege from age, more often than not."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1395
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1396
 msgid "The elves that lived there considered knowledge the most valuable thing in the world, they were highly enthusiastic in investigating every secret world had to offer. Each and every one, including the darkest ones... Though that gave our civilization a great deal of order, discipline, and safety for eons, it would not last forever."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1397
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1398
 msgid "Still, the first step toward chaos was taken by the humans of Wesnoth. More specifically, by the Emperor of Wesnoth, who demanded the creation of a second sun right after a major invasion of undead, led by the necromancer there by your side..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1399
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1400
 msgid "Hey, I was targeting orcs, not humans or elves. You just got in my way as always."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1401
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1402
 msgid "Indeed. But that would be because the orcs whom you fought against were part of an ancient alliance established amongst the civilizations of the northern lands. Your pointless skirmishes are partly to blame for the sad condition of this Continent at present. And for some reason, the Emperor of Wesnoth issued the decree with specific instructions to conceal his witless decision from me, while I was in the field trying to locate *you*. He rejected my duty as his advisor!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1403
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1404
 msgid "I could do nothing since I was too far from Wesnoth to stop the ritual. They gathered all their magi, students and masters alike, to obtain the power necessary to lift a mountain and fixate its path in the skies. That is your second sun, Naia. Created with the sole purpose of destroying darkness and evil forever. And it certainly worked for a time, but not forever."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1405
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1406
 msgid "Many centuries later, something horrible occurred in the elvish lands. No one that is still alive remembers exactly how it happened, nor would they want to, for the most skilled sorcerers of Wesmere had somehow opened a portal to a different world during one of their many experiments. But things went awry, and they awoke an evil and powerful force along with it. This force adopted the form of a young elf seer and became the incarnation known as Yanqui. He told them that a great evil was going to swallow the lands and destroy the elvish civilization in its entirety, taking with it all the knowledge they had collected over the years."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1407
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1408
 msgid "Predictably enough, he said that he would protect them if they worshiped him as a god. He also promised them unlimited knowledge and power to seal the pact - just what they had always wanted. Ambition blinded the minds of the Lords of Wesmere, so they agreed to the pact, even though Yanqui demanded blood sacrifices as a part of it. Those who disagreed with the decision of the Ka'lian died as the first sacrifices to the demon lord."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1409
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1410
 msgid "For a long time, these events remained a secret to the rest of the world, including the foreign elvish lands. The Ka'lian used any means necessary to make sure that the news would not spread out of Wesmere. But something else was happening in non-elvish lands..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1411
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1412
 msgid "The Emperor that ruled Wesnoth in those days died of poisoning six years after Yanqui's appearance in Wesmere. Some thought that he effectively committed suicide. Others were certain that he would not have done such a thing, and that the new Emperor of Wesnoth - a nobleman by the name of Dantair, whom I met a decade or two before - was behind it. He confirmed those fears himself, just two years after the beginning of his rule, when he demanded the creation of a third sun describing it as 'an essential step allowing for further growth and prosperity in Wesnoth'. He was so confident in the power of Wesnoth's magi and in his own political influence that he believed people would recognize him as a 'rightful' ruler once a third sun was in the sky."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1413
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1414
 msgid "But his confidence was too great. Since no necromancers or chaotic orcs had actually threatened Wesnoth's safety during the centuries since Naia's creation, the orders of the magi had grown corrupt, and very few humans continued the serious pursuit of magic. The masters of old had passed away, and the new apprentices who came to take their place were a lazy and arrogant bunch. Nonetheless, Dantair went ahead with his plan."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1415
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1416
 msgid "Bloody politicians. They always manage to manipulate and convince people into doing crazy things!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1417
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1418
 msgid "When the rumors reached me, I made haste to force him to give up. However, he must have predicted that, since he sent some of his best troops to stop me from reaching him. When I finally arrived at the valley of Weldyn, it was too late. The creation of Gaia was being attempted and, to my heart's pain, I witnessed all that transpired that fateful day."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1419
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1420
 msgid "Ugh...that day. I had to move to another home since mine was..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1421
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1422
 msgid "If you'll let me continue... As I said, the human magi's mastery of magic arts was not as strong as it used to be, and their attempt to lift and send Gaia to the skies was a total disaster. Their powers were not great enough to tether Gaia high in the skies, so the mountain fell, crashing down onto Weldyn, the empire's capital, and giving rise to a huge cataclysm that destroyed cities, valleys, and even mountains. The earth-shattering force of the impact reshaped the land and altered even the coastline. All that was beautiful and of worth was ruined. I quickly returned to my home in Lintanir, the northeastern elvish forest, in an attempt to keep order amidst the chaos."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1423
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1424
 msgid "The humans struggled to survive, the prey of panic, and they swiftly killed the Emperor, the magi, and their families in response to their acts. I suppose that for the most of the ignorant citizens, magic was turned into taboo. Horrible wars flared amongst elves, dwarves, orcs, and trolls altogether. Each kind would fight the other for the scarce resources left, except us... At least, for a time."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1425
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1426
 msgid "Naia and Sela scorched all known lands drying up rivers and lakes, fields and forests. Yanqui's power made Wesmere Forest stand intact, however; green and seemingly peaceful. But he demanded unnatural sacrifices once more, and the Ka'lian agreed to his demands and executed his orders. All foreign species, including elves from other forests, were declared heretics, not worthy of living."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1427
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1428
 msgid "So, as creatures from other races, or elves from foreign forests came to Wesmere seeking shelter, the dark cultists sacrificed them to Yanqui. The pain and agony were feeding him, making his power stronger and stronger. When no more refugees came there out of fear, he ordered raiding parties organized to search for elves, humans, orcs, or whatever they could find in the outside lands."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1429
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1430
 msgid "We, the elves of the Lintanir forest, had to abandon our home for it would support life no longer. And so Argan and I led my people out of the northern forests. We eventually stumbled upon the Wesmere Forest."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1431
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1432
 msgid "Unaware of the corruption at the forest's heart, we decided to ask refuge of the Ka'lian. However, we were ambushed at night during our travel to the capital. Many of us died, elders and children included. Either killed during the fight, or kidnapped and sacrificed for Yanqui, as my husband Argan would later find out. He risked his own life to reach the capital and spy on the cultists."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1433
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1434
 msgid "So we found ourselves faced with a difficult choice - stop our brethren, the Wesmere elves, and free them from the great evil at all costs, or flee to safety and let them continue their rule of cruelty, and eventually control the whole continent. Painfully, I chose the first and started the lengthy War of Wesmere. That was the last war fought on the Continent, for we were the last civilization still standing back then, to the best of my knowledge."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1435
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1436
 msgid "Even though our numbers were superior, their religious frenzy, obsession, and fear of destruction almost led the Wesmere elves to victory. We fought with all our might, but that only called upon the fury of the demon lord, who eventually appeared in his true form to attack us from the skies."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1437
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1438
 msgid "With little chance of prevailing, Argan and I had to call upon the power of the Union, risking destruction by our own power. The Union of the Darkness and the Light was not powerful enough to destroy the demon, however, at least not entirely for his powers of regeneration were stronger."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1439
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1440
 msgid "Finally we managed to tear apart his body, sealing all the pieces with magic, then sent them back to the underworld, destroying the portal as our final act. Victory was ours. Wesmere, however, was a wreck, nothing living remained in the forest except for a few survivors - less than one hundred elves. The few remaining Wesmere elves surrended and begged for forgiveness. We spared the civilians' lives, but most priests and warriors left were executed and burned to ashes. We could not risk the possibility of another civil war, and we had to prevent the priests from summoning forces from the underworld again at all costs."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1441
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1442
 msgid "It is ironic how we elves have always despised humans because of their moral, intellectual, and physical inferiority. The humans may have doomed all the world of Irdya to chaos, but our own kin were the only ones responsible for the end of the ancient elvish civilization. Though our civilization rarely suffers from a lapse in judgement, the fact that the results are always enormously catastrophic is unsettling. That is why I fear this may happen yet again. Yanqui was not the first false spiritual guide that inflicted massive harm on our people, but certainly the worst."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1443
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1444
 msgid "To keep our civilization in one piece, we had to forbid telling the story, and execute anyone who would dare to tell it. But we were never sure whether we had killed every cultist or not. Of course, we know that one of them escaped execution, since one of the commanders spared her life... She assured him that she was just a simple, ignorant follower, not a devout cultist. I felt she had to be executed, but unfortunately, the rest of my people did not agree."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1445
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1446
 msgid "Anlindë? But...but, she..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1447
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1448
 msgid "I was a priestess, yes, but not willing. He would have killed me and the rest of my family if I had rejected his rule! Of course, at the end, he killed them nonetheless. I realize now that I only delayed their inevitable fate."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1449
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1450
 msgid "Why did the elves part ways?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1451
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1452
 msgid "Anlindë wanted them to return to the Northeast. She said that we should have explored the unknown instead of retreating south. Of course, not every commander agreed, so eventually we went our separate ways, leaving both sides feeling wronged. Argan and I decided that our people no longer needed us, for Telchior and Anlindë would not listen to us. Quetor'el went south with his small group, but after the war I felt too weakened to travel with them across the desert. So Argan and I came here, to the depths, to live in peace. I am still surprised that Telchior and Anlindë managed to find a valley with life in the far East - I was wrong after all."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1453
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1454
 msgid "However, on the way to this place, an earthquake tore a rift in the ground near us. Argan fell into the darkness, and I could not follow him... Faithfully, I waited years and years for him... I thought he could have survived that disaster...he always managed to escape the worst situations... But then, I realized that I was waiting for the impossible. I decided to sleep for the rest of eternity, since I...needed him. And he was no more."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1455
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1456
 msgid "That's...horrible..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1457
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1458
 msgid "My deepest condolences."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1459
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1460
 msgid "Then, all hope is lost..."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1461
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1462
 msgid "Oh no, what are we gonna do now?"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1463
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1464
 msgid "Don't despair. Although the force of the Union has been lost forever, I will try to help you in any way that is possible. Still, I can't avoid being disturbed by the fact that someone opened a portal and possibly summoned Yanqui back into this world. The person responsible must have known this history in some way...or did it by accident, which is far less likely. I certainly hope that the one who is orchestrating this chaos is not Yanqui himself, or any other being of his kind."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1465
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1466
 msgid "The individual responsible for this may be related in some way to Yechnagoth. She also knew of Yanqui somehow, or that's what we had been told by our hero, Rogrimir."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1467
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1468
 msgid "Yechnagoth, the Eater of Souls? But she's just an ancient legend told by mothers to scare their children - but with times as they are, I suppose you can expect anything."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1469
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1470
 msgid "Aye. Accordin' to the history, the Quenoth desert elves led by Kalehssar - nephew of Tanuil, and direct descendant of Quetor'el - defeated her on an isle far to the west, in the middle of the Vast Sea. She could corrupt all souls from that place, includin' humans, orcs, nagas, and saurians. After bein' defeated, though, that influence was gone. But a large fraction of humans were still controlled by a powerful group of followers; I'd bet they are the ones behind this plot. The 'loyalists'. They probably want to expand their empire by takin' over these lands and others yet to be discovered."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1471
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1472
 msgid "Interesting. So other elves survived and even managed to perform no small feat. But somehow I fear they did not really destroy her. It may have been a decoy; as far as I know, many ancient legends tell of brave, lonely heroes slaying her. If the existence of Yechnagoth turns out to be true, what can be said of those tales? Perhaps her power is greater than we could suspect."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1473
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1474
 msgid "I also cannot believe that simple humans could control the forces of the underworld. There must be something more powerful behind this."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1475
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1476
 msgid "It is an intriguing matter, indeed. Unfortunately, the knowledge amassed by our people and the humans' lore masters has been lost forever. If only we could have accessed it; we might have been able to find a glimmer of light to guide us in this dark new world."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1477
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1478
 msgid "I think we should move and quit wasting time here. The world needs us!"
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1479
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1480
 msgid "Very well, let us go, I cannot wait to get out of these tunnels."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1481
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1482
 msgid "Neither can I."
 msgstr ""
 
 #. [event]: (id=Mal Keshar)}
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1483
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1484
 msgid "We'll see the sunlight again? It's been so long... So long since I've seen the surface..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1530
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1531
 msgid "Wow. This place has plenty of water, deep and shallow. The small fords should allow us to cross it, but they appear to be well guarded by water spirits and other creatures which have some affinity with water. This will not be easy, but shouldn't prove to be too hard."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1548
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1549
 msgid "There are lava streams down here from which hot air rises and warms this cave. Interesting - there must be a volcano near this cave system, or perhaps we are inside one."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1597
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1598
 msgid "This strange potion bottle gives me the chills. A label with a skull on it makes it clear that it is a bad thing, but for some reason it does not smell like poison. This scroll I found next to it explains that it is a draining potion - that while it makes the drinker much weaker, but it also grants them the draining ability with their melee attacks. I am not sure if it is really worth the exchange, but draining my opponent's vital energy certainly attracts me."
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1599
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1600
 msgid "I think it is worthwhile. Let me have it."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1602
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1603
 msgid "The unit drinks the potion, feeling immediately dazed and confused. Then, its vital energy lowers but its melee weapons gain the draining specialty."
 msgstr ""
 
 #. [object]: id=Drainer Potion
 #. [message]: speaker=narrator
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1613 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1651
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1614 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1652
 msgid "Drainer Potion"
 msgstr ""
 
 #. [object]: id=Drainer Potion
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1615
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1616
 msgid "This potion adds the Draining ability to this unit's melee attacks, and makes it quite stronger against arcane attacks."
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1641
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1642
 msgid "On a second thought, I don't like the idea. It is revolting."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1653
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1654
 msgid "This potion would add the Draining ability to this unit's melee attacks, but only if it was a living unit. You might want to bring a living unit to it instead."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1714
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1715
 msgid "What a beautiful flask for a potion! Reddish in color, I open and smell it, and immediately feel euphoric and energized. It must be one of those ancient 'berserk' potions, which make the drinker stronger and frenetically lethal to their enemies. This implies many risks in combat, as berserk attacks don't allow you to get protection and so forth during combat. However, it might prove to be useful in our war against the demons."
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1716
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1717
 msgid "I'll take it. I do not fear death!"
 msgstr ""
 
 #. [object]: id=Berserk Potion
 #. [message]: speaker=narrator
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1728 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1783
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1729 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1784
 msgid "Berserk Potion"
 msgstr ""
 
 #. [object]: id=Berserk Potion
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1730
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1731
 msgid "For the remainder of this scenario, this potion adds the Berserk ability to this unit's melee attacks (which also gain strength), and makes it stronger against impact, blade, and fire attacks. Also, the unit increases its maximum hitpoints by 10% of the current maximum."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1756
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1757
 msgid "Great! I now feel invincible!"
 msgstr ""
 
 #. [message]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1763
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1764
 msgid "Oh really? Let's see if you really are invincible!"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1765
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1766
 msgid "Uh-oh. I might be in trouble. Or perhaps not."
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1770
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1771
 msgid "On the other hand, I do not want to give up control of my emotions during battle."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1785
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1786
 msgid "This potion would add the Berserk ability to this unit's melee attacks, if only it was a strong and skillful fighter unit, living or not. Spirits certainly cannot count as strong fighters, since they don't even have a solid body. Elvish shamans and other faerie beings do not count either, lacking combat prowess. A bat should never use this kind of potion for digestive reasons."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1811
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1812
 msgid "Touchplate triggered. A magical gate opens."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1841
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1842
 msgid "Go 'way!! We're like, closed or somethin'!!!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1845
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1846
 msgid "Um...okay."
 msgstr ""
 
 #. [then]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1868
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1869
 msgid "You have found a pretty interesting building, albeit crude in design. You may want to get a unit that is not a bat or walking corpse to check it out."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1894
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1895
 msgid "It is strange to find a house here in the deep, but it appears that someone lives there, judging by the condition of the exterior. The decorations to this cave also appear to be recent. What should I do - leave or see if somebody is still living there?"
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1896
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1897
 msgid "Shout and see."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1898
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1899
 msgid "Hellooooo! Anybody at home?"
 msgstr ""
 
 #. [event]
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/cutscenes/16x.cfg:151 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1899
+#: ./Invasion_from_the_Unknown/scenarios/cutscenes/16x.cfg:151 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1900
 msgid "(silence)"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1900
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1901
 msgid "I said HELLO!!!"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1901
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1902
 msgid "(yet more silence)"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1904
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1905
 msgid "Should I insist another time, or abandon the cave?"
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1906
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1907
 msgid "Insist again."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1908
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1909
 msgid "Very well, let me break in..."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1909
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1910
 msgid "(*BOOM!!! CRASH!!! CRACK! CLANG! CRASH!!! BAM!!*)"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1910
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1911
 msgid "So, anybody at home now?"
 msgstr ""
 
 #. [unit]: id=Igor, type=Wolf Rider
-#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:280 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1913
+#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:280 ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1914
 msgid "Igor"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1928
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1929
 msgid "Awww. Can't I even find a safe place to live??"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1929
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1930
 msgid "A goblin? How did you get here?"
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1930
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1931
 msgid "It's a long story. I used to live in the northlands, in a small town with my fellows. However, it just so happened those foul 'loyalists' invaded it, ransacked it, killed my people, and left me with no home to live in. I couldn't believe I survived that night, I just wish they had the same luck. Fearing for my life, I decided to enter the caves and find the deepest one possible, looking for safety and peace."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1931
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1932
 msgid "So I found these caverns, and set up home here. However, the dang humans appeared again with their filthy cronies, but this time I managed to hide my cave from them. Now that you unhid it, I'll surely perish."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1932
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1933
 msgid "I see. Well, would you like to perhaps follow us, rather than staying in these perilous pits? We could provide protection for you from the loyalists..."
 msgstr ""
 
 #. [command]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1933
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1934
 msgid "Oh really? Wait a second, let me prepare my baggage and I shall go with you!"
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1938
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1939
 msgid "Abandon."
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1944
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1945
 msgid "I think it would be safer to keep away from this cave."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1987
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1988
 msgid "Hmm... These gates seem to be magical in nature. They gently glow in a blueish tone, and I cannot even touch them."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1988
+#: ./Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1989
 msgid "There must be a way to open them somewhere."
 msgstr ""
 
@@ -6094,173 +6024,168 @@ msgstr ""
 #. [unit]: id=King Asthorgar, type=Dwarvish Lord
 #. [side]: id=King Asthorgar, type=Dwarvish Lord
 #. [side]: type=Dwarvish Lord, id=King Asthorgar
-#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:244 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:42 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:517 ./Invasion_from_the_Unknown/scenarios/cutscenes/08x.cfg:31 ./Invasion_from_the_Unknown/scenarios/cutscenes/20x.cfg:31 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:58
+#: ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:244 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:43 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:517 ./Invasion_from_the_Unknown/scenarios/cutscenes/08x.cfg:31 ./Invasion_from_the_Unknown/scenarios/cutscenes/20x.cfg:31 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:58
 msgid "King Asthorgar"
 msgstr ""
 
 #. [side]: id=Armiza'ar, type=Chaos Lore
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:107
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:108
 msgid "Armiza'ar"
 msgstr ""
 
 #. [side]: id=Denathor, type=Dwarvish Explorer
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:124
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:125
 msgid "Denathor"
 msgstr ""
 
 #. [side]: id=Oddis, type=Chaos Soulhunter
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:150
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:151
 msgid "Oddis"
 msgstr ""
 
 #. [side]: id=Casper, type=Hell Guardian
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:166
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:167
 msgid "Casper"
 msgstr ""
 
 #. [side]: id=Alazar, type=Chaos Cataphract
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:182
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:183
 msgid "Alazar"
 msgstr ""
 
 #. [side]: id=Furrin, type=Dwarvish Dragonguard
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:199
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:200
 msgid "Furrin"
 msgstr ""
 
 #. [side]: id=Wygerm, type=Chaos Heavy Longbowman
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:227
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:228
 msgid "Wygerm"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:299
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:300
 msgid "Defeat all enemy leaders, if you can. (Bonus)"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:301 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:27 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:310 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:400 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:515 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:566 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:478 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:487
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:302 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:27 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:310 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:400 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:515 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:566 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:478 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:487
 msgid "Death of King Asthorgar"
 msgstr ""
 
 #. [objectives]
-#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:206 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:354 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:304 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:434 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:497 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:47 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:25 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:52 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:98 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:435 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:511 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:586 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1236 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:302 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:561 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:574 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:87 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:194 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:282 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:589 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:758 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:773 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:929 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:144 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:25 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:308 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:398 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:513 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:564 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:475 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:490 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:136 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:305 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:320 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:155 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:573 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:611 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:314 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:751 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:830 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:282
+#: ./Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:206 ./Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:354 ./Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:304 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:434 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:497 ./Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:47 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:25 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:52 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:98 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:435 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:511 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:586 ./Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1236 ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:303 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:561 ./Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:574 ./Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:87 ./Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:194 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:282 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:589 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:758 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:773 ./Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:929 ./Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:144 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:25 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:308 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:398 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:513 ./Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:564 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:475 ./Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:490 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:136 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:305 ./Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:320 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:155 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:573 ./Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:611 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:314 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:751 ./Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:830 ./Invasion_from_the_Unknown/scenarios/23A_Frozen_Hell.cfg:282
 msgid "Death of Elynia"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:313
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:314
 msgid "Look, Knalga's capital is under siege!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:314
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:315
 msgid "The bastards! As I feared, they made it here before us. It matters little, we shall drive them out of these caves regardless."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:315
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:316
 msgid "So those are the demons? They are smaller than I was expecting. It is clear that there are no chiefs amongst them."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:316
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:317
 msgid "They shall pay with their accursed blood if our king was assassinated or harmed in any way..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:317
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:318
 msgid "Look! There in the main keep! He is still alive and apparently safe..."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:318
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:319
 msgid "Althurin! Our allies! They've made it back, and they've found the Lady of Light!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:319
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:320
 msgid "Indeed we have, sir. What's the current situation?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:320
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:321
 msgid "We are in dire need of all the help we can muster. Our main defense force has been defeated by these intruders, who brought the bulk of their army from out of nowhere. Most of our other cities have been destroyed, and I doubt we can hold them away from the main keep for much longer!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:321
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:322
 msgid "We will help you, Your Excellency, and we shall die fighting if it is necessary."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:322
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:323
 msgid "What?! This is suicidal! We have already discussed this - we cannot fight against a true army, you know that better than I! Remember our losses at the valley. Do you want to sacrifice us all?"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:323
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:324
 msgid "I can not leave the dwarves to perish alone! We are in debt to them. If it wasn't for them, or at least for their king and Althurin, we would never have found Elynia!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:324
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:325
 msgid "Anlindë, you should have already learned that there are some things more important than life itself, and some things worse than death. We will not let ourselves fall before the demons, no matter what happens."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:325
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:326
 msgid "(sighs) Then I guess that is what we must do. But, our forces are still weak."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:326
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:327
 msgid "You elves might be weak, but my minions shall never be, as long as I stand."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:333
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:334
 msgid "Your doom is at hand. Surrender, dwarf king! If you do so now, the Master might have mercy on some of your underlings and spare their lives."
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:334
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:335
 msgid "We'll rip you to pieces if you don't accept our offer!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:335
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:336
 msgid "We'll never surrender, loathsome vermin! May Knalga be destroyed and forgotten first, but our kind will never let an inferior race take over our caves!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:336
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:337
 msgid "Then so be it. You have rejected our mercy with your pride and arrogance. All men, attack! Use any methods you deem necessary and effective to wipe these bearded children out. For the Master! For the Empire!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:337
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:338
 msgid "NOTE FOR TRANSLATORS: the 'Blessed One' is Elynia"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:338
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:339
 msgid "Hey, look! Those are the elves! And they made it back with the Blessed One!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:339
+#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:340
 msgid "Oh that incompetent fool, Mena... So her expedition failed to vanquish the pointy-eared rats! Well, it's our turn now. Let it be known that you shall pay with blood for your bold, yet pitiful, repeated attempts to defeat us! You shall not escape this time!"
 msgstr ""
 
 #. [event]
-#: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:340
-msgid "That is easy to say, foul sorcerer of forbidden arts, but we have a strong, new power on our side this time. We won't let you accomplish your goals, not now, nor ever after this battle!"
-msgstr ""
-
-#. [event]
 #: ./Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:341
-msgid "(blushes) Umm, Galas...don't you think you are exaggerating a bit?"
+msgid "That is easy to say, foul sorcerer of forbidden arts, but we have a strong, new power on our side this time. We won't let you accomplish your goals, not now, nor ever after this battle!"
 msgstr ""
 
 #. [event]
@@ -6946,7 +6871,7 @@ msgstr ""
 
 #. [event]
 #: ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:204
-msgid "Ah, the smell of death only enhances my thirst for blood. With the dwarven defenses crippled by the drones, taking over the keep shall be easy."
+msgid "Ah, the smell of death only increases my thirst for blood. With the dwarven defenses crippled by the drones, taking over the keep shall be easy."
 msgstr ""
 
 #. [event]
@@ -6966,7 +6891,7 @@ msgstr ""
 
 #. [event]
 #: ./Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:209
-msgid "The real assault has started. I hope we can give Galas and the rest enough time to escape unnoticed."
+msgid "Their final assault has started. I hope we can give Galas and the rest enough time to escape unnoticed."
 msgstr ""
 
 #. [event]
@@ -13169,7 +13094,7 @@ msgstr ""
 #. [attack]: type=pierce
 #. [attack]: type,range=pierce,melee
 #. [attack]: type=blade
-#: ./Invasion_from_the_Unknown/units/shaxthal/Thunderbird.cfg:31 ./Invasion_from_the_Unknown/units/shaxthal/Razorbird.cfg:31 ./Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:22 ./Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:25 ./Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:24
+#: ./Invasion_from_the_Unknown/units/shaxthal/Thunderbird.cfg:31 ./Invasion_from_the_Unknown/units/shaxthal/Razorbird.cfg:31 ./Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:22 ./Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:26 ./Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:25
 msgid "beak"
 msgstr ""
 
@@ -13183,7 +13108,7 @@ msgstr ""
 
 #. [attack]: type,range=pierce,melee
 #. [attack]: type=pierce
-#: ./Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:96 ./Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:26
+#: ./Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:96 ./Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:27
 msgid "incisors"
 msgstr ""
 
@@ -13879,13 +13804,13 @@ msgid "Sentry Tower"
 msgstr ""
 
 #. [unit_type]: id=Sentry Tower, race=mechanical
-#: ./Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:34
+#: ./Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:35
 msgid "These towers were designed to be difficult to strike down, making of them great defense facilities. On their tops dual light turrets are installed, which can stab, or even burn, oponents in less time than it takes to say 'touché'."
 msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=fire
-#: ./Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:40 ./Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:49
+#: ./Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:41 ./Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:50
 msgid "dual laser cannon"
 msgstr ""
 
@@ -13926,7 +13851,7 @@ msgstr ""
 
 #. [attack]: type=cold
 #. [attack]: type=arcane
-#: ./Invasion_from_the_Unknown/units/monsters/Cockatrice.cfg:37 ./Invasion_from_the_Unknown/units/monsters/Eyestalk.cfg:63 ./Invasion_from_the_Unknown/units/monsters/Chimera.cfg:46
+#: ./Invasion_from_the_Unknown/units/monsters/Cockatrice.cfg:37 ./Invasion_from_the_Unknown/units/monsters/Eyestalk.cfg:64 ./Invasion_from_the_Unknown/units/monsters/Chimera.cfg:46
 msgid "gaze"
 msgstr ""
 
@@ -13946,12 +13871,12 @@ msgid "Eyestalk"
 msgstr ""
 
 #. [unit_type]: id=Eyestalk, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/Eyestalk.cfg:45
+#: ./Invasion_from_the_Unknown/units/monsters/Eyestalk.cfg:46
 msgid "Named 'Eyestalks' for obvious reasons, these plant-like creatures can focus their gaze onto an unsuspecting victim to draw life energy straight out of them to replenish their own. While almost defenseless against melee attacks, its deadly gaze from afar is not to be underestimated."
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Invasion_from_the_Unknown/units/monsters/Eyestalk.cfg:52
+#: ./Invasion_from_the_Unknown/units/monsters/Eyestalk.cfg:53
 msgid "smash"
 msgstr ""
 
@@ -13961,7 +13886,7 @@ msgid "Fungoid"
 msgstr ""
 
 #. [unit_type]: id=Fungoid, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/Fungoid.cfg:30
+#: ./Invasion_from_the_Unknown/units/monsters/Fungoid.cfg:31
 msgid "Fungoids are mushroom-like creatures that can multiply very quickly. Soft and weak, they don't represent a real threat to most races. Yet, adventurers appear from time to time swearing they have seen a fungoid bigger than them. This myth has never been proved true, however."
 msgstr ""
 
@@ -13971,7 +13896,7 @@ msgid "Giant Ant"
 msgstr ""
 
 #. [unit_type]: id=Giant Ant, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/Giant_Ant.cfg:19
+#: ./Invasion_from_the_Unknown/units/monsters/Giant_Ant.cfg:20
 msgid "Ants are common in almost any environment, from caverns deep under the earth to the tops of tall mountains. Those that live deep underground tend to grow up over their normal size. Though normally not hostile, they can bite at close range, dealing more damage than a normal-sized ant."
 msgstr ""
 
@@ -13981,7 +13906,7 @@ msgid "Lesser Giant Spider"
 msgstr ""
 
 #. [unit_type]: id=Lesser Giant Spider, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/Giant_Spider_Lesser.cfg:17
+#: ./Invasion_from_the_Unknown/units/monsters/Giant_Spider_Lesser.cfg:18
 msgid "Smaller and weaker Giant Spiders are very common underground. They usually prey on single insects roaming around, but sometimes it is possible to find dwarven or human corpses trapped in their webs, which suggests they have little problem in eating big individuals fool enough to fall in their traps."
 msgstr ""
 
@@ -14021,7 +13946,7 @@ msgid "Leech"
 msgstr ""
 
 #. [unit_type]: id=Leech, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/Leech.cfg:48
+#: ./Invasion_from_the_Unknown/units/monsters/Leech.cfg:49
 msgid ""
 "Leeches are universally known for their common diet, the warm blood of various bigger creatures. However, this is exactly why they are often used for medicinal purposes.\n"
 "\n"
@@ -14031,7 +13956,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:30 ./Invasion_from_the_Unknown/units/monsters/Leech_Giant.cfg:29 ./Invasion_from_the_Unknown/units/monsters/Leech.cfg:57
+#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:31 ./Invasion_from_the_Unknown/units/monsters/Leech_Giant.cfg:30 ./Invasion_from_the_Unknown/units/monsters/Leech.cfg:58
 msgid "drainer"
 msgstr ""
 
@@ -14041,7 +13966,7 @@ msgid "Brain Drainer"
 msgstr ""
 
 #. [unit_type]: id=Brain Drainer, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:23
+#: ./Invasion_from_the_Unknown/units/monsters/Leech_Brain_Drainer.cfg:24
 msgid ""
 "Giant Leeches grow up after draining enough blood, becoming a extremely dangerous threat for any living creature. As they drain blood, they regenerate, healing their wounds and growing in size.\n"
 "\n"
@@ -14054,7 +13979,7 @@ msgid "Giant Leech"
 msgstr ""
 
 #. [unit_type]: id=Giant Leech, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/Leech_Giant.cfg:22
+#: ./Invasion_from_the_Unknown/units/monsters/Leech_Giant.cfg:23
 msgid ""
 "Leeches are well known for their habit of draining the blood out of bigger creatures. It is fortunate that they are smaller than a man's thumb.\n"
 "\n"
@@ -14072,7 +13997,7 @@ msgid "Crow"
 msgstr ""
 
 #. [unit_type]: id=Crow, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:20
+#: ./Invasion_from_the_Unknown/units/monsters/NPC_Crow.cfg:21
 msgid "Crows are carrion birds which will eat anything dead. Larger ones such as this have been also known to feed upon living preys when food is scarce."
 msgstr ""
 
@@ -14082,7 +14007,7 @@ msgid "Falcon"
 msgstr ""
 
 #. [unit_type]: id=Falcon, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:19
+#: ./Invasion_from_the_Unknown/units/monsters/NPC_Falcon.cfg:20
 msgid "Majestic birds of prey, falcons are the fastest flying creatures in the world. Even though these wild falcons have escaped from their keepers, they continue to hunt with their razor-sharp claws."
 msgstr ""
 
@@ -14092,7 +14017,7 @@ msgid "Rabbit"
 msgstr ""
 
 #. [unit_type]: id=Rabbit, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:21
+#: ./Invasion_from_the_Unknown/units/monsters/NPC_Rabbit.cfg:22
 msgid ""
 "The rabbit is a cute creature which lives in fields and forests. In its gnawing attack, striking from powerful incisors, resides country farmers' greatest fear. Alas, rabbits are victims of the appetite of many bigger creatures, like wolves or even humans, for their flesh is used in one of the most delicious dishes ever known.\n"
 "\n"
@@ -14105,12 +14030,12 @@ msgid "Tux the Penguin"
 msgstr ""
 
 #. [unit_type]: id=Tux, race=monster
-#: ./Invasion_from_the_Unknown/units/monsters/NPC_Tux.cfg:18
+#: ./Invasion_from_the_Unknown/units/monsters/NPC_Tux.cfg:19
 msgid "Nobody knows where the Tux came from. Rumour has it that it's the avatar of the destruction wind in this world."
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Invasion_from_the_Unknown/units/monsters/NPC_Tux.cfg:21
+#: ./Invasion_from_the_Unknown/units/monsters/NPC_Tux.cfg:22
 msgid "kernel panic"
 msgstr ""
 
